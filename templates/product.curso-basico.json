@@ -19,7 +19,7 @@
         "fe05dc65-f683-49dc-bc03-29598735994c": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Comprar curso",
             "button_link": "",
             "button_style_secondary": false
           }
