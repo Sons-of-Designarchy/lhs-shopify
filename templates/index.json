@@ -398,15 +398,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "e0ea113b-17ae-47ad-807e-d4617397c4bc": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"add-to-cart\">\n  <form action=\"\/cart\/add\" method=\"post\" enctype=\"multipart\/form-data\">\n    <input type=\"hidden\" name=\"id\" value=\"{{ product.variants.first.id }}\">\n    <button type=\"submit\" class=\"btn btn-primary\">Add to Cart<\/button>\n  <\/form>\n<\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -420,7 +411,6 @@
     "95deff6f-69cc-4f35-9054-020bd0303a52",
     "newsletter",
     "4f9bd404-4d99-414d-9e43-486916f952e2",
-    "2449e122-bdb4-4d83-9358-660cf9399840",
-    "e0ea113b-17ae-47ad-807e-d4617397c4bc"
+    "2449e122-bdb4-4d83-9358-660cf9399840"
   ]
 }
