@@ -375,6 +375,7 @@
   },
   "platform_customizations": {
     "custom_css": [
+      ":root {--purple: #603dbd; --purple-light: #886ecd; --off-purple: #e9e4f5; --green: #d5fc6d; --green-flu: #d3fc66; --white: #ffffff;}",
       ".header {padding-top: 0.5rem; padding-bottom: 0.5rem;}",
       ".article-card__excerpt {font-size: 1rem; margin-bottom: 1rem;}",
       ".article-card {box-shadow: 0 0 30px rgba(0, 0, 0, 0.05);}",
