@@ -3,8 +3,15 @@
     "c745d297-b2eb-4099-a60d-69e922df1aa3": {
       "type": "featured-product",
       "blocks": {
+        "a9dde346-4f18-475a-b1b9-b7daee525151": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h1> ¿Tu cliente te pidió factura y no sabes como empezar? <\/h1>"
+          }
+        },
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ section.settings.product.vendor }}",
             "text_style": "uppercase"
@@ -12,21 +19,23 @@
         },
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-title-1": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "heading_size": "h1"
           }
         },
         "70399914-804f-47d5-b2b4-a7cff41e8fd0": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "¿Tu situación fiscal no te deja dormir?",
-            "text_style": "body"
+            "text_style": "uppercase"
           }
         },
         "d275fe08-bf73-45e2-8bb8-be2cdf425d9c": {
           "type": "text",
           "settings": {
-            "text": "No te preocupes, aquí te damos apoyo práctico en las funciones más comunes del portal en una asesoría 1-1 en videollamada con uno de nuestros expertos.Agendar asesoria",
+            "text": "No te preocupes, nosotros te ayudamos pasito a pasito a entender            todo el mundo del SAT en una asesoría 1-1 en videollamada con uno            de nuestros expertos.",
             "text_style": "body"
           }
         },
@@ -39,6 +48,7 @@
         },
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-price-1": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
@@ -66,9 +76,18 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "24d2a3c1-17cd-4b2f-9308-dee1d978cbde": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Text block",
+            "text_style": "uppercase"
+          }
         }
       },
       "block_order": [
+        "a9dde346-4f18-475a-b1b9-b7daee525151",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-text-1",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-title-1",
         "70399914-804f-47d5-b2b4-a7cff41e8fd0",
@@ -78,7 +97,8 @@
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-variant_picker-1",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-quantity_selector-1",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-buy_buttons-1",
-        "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-share-1"
+        "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-share-1",
+        "24d2a3c1-17cd-4b2f-9308-dee1d978cbde"
       ],
       "settings": {
         "product": "asesoria-practica",
@@ -86,8 +106,8 @@
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 44,
+        "padding_bottom": 44
       }
     },
     "c7c8a3b1-eb27-4a8c-a8ca-6e88b95184ec": {
@@ -232,7 +252,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Conocer tu situación fiscal<\/li><\/ul>",
+            "text": "<p>Conocer tu situación fiscal<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -241,7 +261,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Elegir el mejor regimen para ti<\/li><\/ul>",
+            "text": "<p>Elegir el mejor regimen para ti<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -258,7 +278,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "inverse",
@@ -275,7 +295,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Encontrar los documentos mas importantes en el portal<\/li><\/ul>",
+            "text": "<p>Encontrar los documentos mas importantes en el portal<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -284,7 +304,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Hacer un plan para tener una mejor relación con el SAT<\/li><\/ul>",
+            "text": "<p>Hacer un plan para tener una mejor relación con el SAT<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -301,7 +321,7 @@
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "inverse",
