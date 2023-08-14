@@ -1,1 +1,416 @@
-{"sections":{"69a69f93-a82c-45dd-afe9-1fe31608b925":{"type":"custom-liquid","settings":{"custom_liquid":"<div class=\"section section-hero\">\n  <div class=\"container\">\n    <div class=\"row align-items-center\">\n      <div class=\"col-md-6\">\n        <h1 class=\"mb-4\">\n          Somos una comunidad de educación fiscal\n        <\/h1>\n        <p class=\"font-lg\">\n          Hacemos\n          <a target=\"_blank\" href=\"https:\/\/instagram.com\/lahorasat\/\" class=\"a-underline\">contenido informativo en redes<\/a>, impartimos\n          <a target=\"_blank\" href=\"\/pages\/cursos\/\" class=\"a-underline\">\n            cursos\n          <\/a>\n          y\n          <a href=\"\/pages\/asesorias\/\" class=\"a-underline\">\n            asesorías personalizadas\n          <\/a>\n          que te ayudarán a entender cómo funciona el SAT.\n        <\/p>\n      <\/div>\n      <div class=\"col-md-6\">\n        <a href=\"https:\/\/instagram.com\/lahorasat\" target=\"_blank\" class=\"d-block\" target=\"_blank\">\n          <img src=\"http:\/\/danielpliego.com\/lahorasat\/images\/hero-cover.png\" class=\"img-fluid\" \/>\n        <\/a>\n      <\/div>\n    <\/div>\n  <\/div>\n<\/div>","color_scheme":"background-1","padding_top":0,"padding_bottom":0}},"1661805787e2725a7c":{"type":"image-with-text","blocks":{"166180578721043851-0":{"type":"heading","settings":{"heading":"Somos una comunidad de educación fiscal","heading_size":"h1"}},"166180578721043851-1":{"type":"text","settings":{"text":"<p>Hacemos contenido informativo, impartimos <a href=\"https:\/\/taller-basico-para-sobrevivir-al-sat.boletia.com\/\" target=\"_blank\">cursos<\/a> y <a href=\"https:\/\/lahorasat.com\/#asesoria\">asesorías personalizadas<\/a> que te ayudarán a entender cómo funciona el SAT.<\/p>","text_style":"body"}},"166180578721043851-2":{"type":"button","settings":{"button_label":"Siguenos en @lahorasat","button_link":"https:\/\/instagram.com\/lahorasat\/"}}},"block_order":["166180578721043851-0","166180578721043851-1","166180578721043851-2"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/redes_798d6d94-e418-4d6e-b553-bdf025a1f8d1.png","height":"adapt","desktop_image_width":"small","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"165593621102fa3362":{"type":"featured-collection","settings":{"title":"Aprende lo básico sobre el SAT.","heading_size":"h1","description":"<p>Toma nuestros cursos en linea con más de 1,000 graduados que ya aprendieron a dominar al monstruo del SAT.<\/p>","show_description":false,"description_style":"subtitle","collection":"cursos","products_to_show":2,"columns_desktop":2,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"inverse","image_ratio":"adapt","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":true,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":80,"padding_bottom":80}},"1655937550bffc4750":{"type":"featured-collection","settings":{"title":"¿Necesitas asesoría personalizada?","heading_size":"h1","description":"<p>Brindamos asesorías uno a uno con uno de nuestros asesores por Zoom,  resuelve todas tus dudas y regulariza tu situación fiscal<\/p>","show_description":false,"description_style":"body","collection":"asesorias","products_to_show":3,"columns_desktop":3,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"accent-2","image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":true,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":80,"padding_bottom":80}},"b2bfdcdf-af63-4c4a-969b-642a6c505028":{"type":"multicolumn","blocks":{"e330b399-d99b-4d53-9a34-8f5becd1a210":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/fintual.png","title":"","text":"","link_label":"","link":"https:\/\/www.instagram.com\/p\/CRCJvuLDV0y\/?utm_medium=copy_link"}},"46e5d847-cdf0-4599-9f05-0bc282aab2c5":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/telokwento.png","title":"","text":"","link_label":"","link":"https:\/\/www.instagram.com\/p\/CSW2qRDHSqQ\/?utm_medium=copy_link"}},"ef9e1e46-f817-461c-9726-ef1dbf748fa1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/fondeadora.png","title":"","text":"","link_label":"","link":"https:\/\/www.instagram.com\/tv\/CVTceIVFZRR\/"}},"4c41a4bd-bd8e-4994-859f-2612393de42b":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/ninas.png","title":"","text":"","link_label":"","link":"https:\/\/open.spotify.com\/episode\/70ZP4KlU9QO21hQjsTv8aH?si=FSCQzSL1S--4WI3Jyo2oQg"}},"001bafda-752e-4f7e-844c-07526fbe2e73":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/tipo-y-asi.png","title":"","text":"","link_label":"","link":"https:\/\/open.spotify.com\/episode\/2lfcJeDXPgohY33yk451d2?si=jRFiesTDQMe_YkE_5tLdYg&dl_branch=1&nd=1"}},"8b17ba91-d7d1-41f0-a5cf-86743986d24c":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/animal_c7a2c7bf-9007-480a-a032-4c72fe522962.png","title":"","text":"","link_label":"","link":"https:\/\/www.instagram.com\/tv\/CMlcDr_DKtU\/?utm_medium=copy_link"}},"0535271c-68cd-4770-afcf-9f1f4ae9487f":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/adn_7ed8e5db-959d-47d0-a714-755940aa61e9.png","title":"","text":"","link_label":"","link":"https:\/\/www.adn40.mx\/finanzas\/sat-instagram-facil-deps-especial"}},"b4582336-b18c-47ce-a221-d4e96732d4d9":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/legalmente-creativo.png","title":"","text":"","link_label":"","link":"https:\/\/www.instagram.com\/tv\/CQzuToHlo2b\/?utm_medium=copy_link"}},"22a8419c-2609-48ff-86b4-2897ae1fbefe":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/mujeres.png","title":"","text":"","link_label":"","link":"https:\/\/www.instagram.com\/p\/CLfw4fQDoMf\/?utm_medium=copy_link"}},"2565c658-ccdb-4be8-9bd9-677b61c22ceb":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/chic.png","title":"","text":"","link_label":"","link":"https:\/\/www.chicmagazine.com.mx\/magazines#details?ref=supp&date=2020-11-12&ratio=magazine&ratiow=737&ratioh=935&edition=2&id=202&sup=Chic%20Magazine"}}},"block_order":["e330b399-d99b-4d53-9a34-8f5becd1a210","46e5d847-cdf0-4599-9f05-0bc282aab2c5","ef9e1e46-f817-461c-9726-ef1dbf748fa1","4c41a4bd-bd8e-4994-859f-2612393de42b","001bafda-752e-4f7e-844c-07526fbe2e73","8b17ba91-d7d1-41f0-a5cf-86743986d24c","0535271c-68cd-4770-afcf-9f1f4ae9487f","b4582336-b18c-47ce-a221-d4e96732d4d9","22a8419c-2609-48ff-86b4-2897ae1fbefe","2565c658-ccdb-4be8-9bd9-677b61c22ceb"],"settings":{"title":"Algunas de nuestras colaboraciones","heading_size":"h2","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":100,"padding_bottom":100}},"1656361374bc014c62":{"type":"featured-blog","custom_css":[".article-card__excerpt {font-size: 16px;}"],"settings":{"heading":"Aprende más sobre el Sat en nuestro blog","heading_size":"h2","blog":"blog","post_limit":3,"columns_desktop":3,"color_scheme":"accent-1","show_image":true,"show_date":true,"show_author":false,"show_view_all":true,"padding_top":100,"padding_bottom":100}},"1666038338bdc9d187":{"type":"apps","blocks":{"e3bbeaa3-609b-4b9b-a392-2e1eb4590523":{"type":"shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5","settings":{"heading_size":20,"feed_width":100,"html_area":""}}},"block_order":["e3bbeaa3-609b-4b9b-a392-2e1eb4590523"],"settings":{"include_margins":true}},"95deff6f-69cc-4f35-9054-020bd0303a52":{"type":"custom-liquid","disabled":true,"settings":{"custom_liquid":"","color_scheme":"background-1","padding_top":40,"padding_bottom":52}},"newsletter":{"type":"newsletter","blocks":{"heading":{"type":"heading","settings":{"heading":"Suscríbete al newsletter y recibe gratis la mini guía del Portal del Sat","heading_size":"h1"}},"email-form":{"type":"email_form","settings":{}}},"block_order":["heading","email-form"],"disabled":true,"settings":{"color_scheme":"accent-2","full_width":true,"padding_top":80,"padding_bottom":80}},"4f9bd404-4d99-414d-9e43-486916f952e2":{"type":"custom-liquid","settings":{"custom_liquid":"<form method=\"post\" action=\"\/cart\/add\">\n  <input name=\"id\" value=\"{{ product.variants.first.id }}\" type=\"hidden\" \/>\n  <input name=\"add\" value=\"ORDER NOW\" type=\"submit\" \/>\n<\/form>","color_scheme":"background-1","padding_top":40,"padding_bottom":52}},"2449e122-bdb4-4d83-9358-660cf9399840":{"type":"featured-product","blocks":{"template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-1":{"type":"text","settings":{"text":"{{ section.settings.product.vendor }}","text_style":"uppercase"}},"template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-title-1":{"type":"title","settings":{"heading_size":"h1"}},"template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-2":{"type":"text","settings":{"text":"{{ section.settings.product.metafields.descriptors.subtitle.value }}","text_style":"subtitle"}},"template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-price-1":{"type":"price","settings":{}},"template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-variant_picker-1":{"type":"variant_picker","settings":{"picker_type":"button"}},"template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-quantity_selector-1":{"type":"quantity_selector","settings":{}},"template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-buy_buttons-1":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-share-1":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-1","template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-title-1","template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-2","template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-price-1","template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-variant_picker-1","template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-quantity_selector-1","template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-buy_buttons-1","template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-share-1"],"settings":{"product":"curso-facturacion","color_scheme":"inverse","secondary_background":true,"hide_variants":false,"enable_video_looping":false,"padding_top":36,"padding_bottom":36}}},"order":["69a69f93-a82c-45dd-afe9-1fe31608b925","1661805787e2725a7c","165593621102fa3362","1655937550bffc4750","b2bfdcdf-af63-4c4a-969b-642a6c505028","1656361374bc014c62","1666038338bdc9d187","95deff6f-69cc-4f35-9054-020bd0303a52","newsletter","4f9bd404-4d99-414d-9e43-486916f952e2","2449e122-bdb4-4d83-9358-660cf9399840"]}
+{
+  "sections": {
+    "69a69f93-a82c-45dd-afe9-1fe31608b925": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"section section-hero\">\n  <div class=\"container\">\n    <div class=\"row align-items-center\">\n      <div class=\"col-md-6\">\n        <h1 class=\"mb-4\">\n          Somos una comunidad de educación fiscal\n        <\/h1>\n        <p class=\"font-lg\">\n          Hacemos\n          <a target=\"_blank\" href=\"https:\/\/instagram.com\/lahorasat\/\" class=\"a-underline\">contenido informativo en redes<\/a>, impartimos\n          <a target=\"_blank\" href=\"\/pages\/cursos\/\" class=\"a-underline\">\n            cursos\n          <\/a>\n          y\n          <a href=\"\/pages\/asesorias\/\" class=\"a-underline\">\n            asesorías personalizadas\n          <\/a>\n          que te ayudarán a entender cómo funciona el SAT.\n        <\/p>\n      <\/div>\n      <div class=\"col-md-6\">\n        <a href=\"https:\/\/instagram.com\/lahorasat\" target=\"_blank\" class=\"d-block\" target=\"_blank\">\n          <img src=\"http:\/\/danielpliego.com\/lahorasat\/images\/hero-cover.png\" class=\"img-fluid\" \/>\n        <\/a>\n      <\/div>\n    <\/div>\n  <\/div>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1661805787e2725a7c": {
+      "type": "image-with-text",
+      "blocks": {
+        "166180578721043851-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Somos una comunidad de educación fiscal",
+            "heading_size": "h1"
+          }
+        },
+        "166180578721043851-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hacemos contenido informativo, impartimos <a href=\"https:\/\/taller-basico-para-sobrevivir-al-sat.boletia.com\/\" target=\"_blank\">cursos<\/a> y <a href=\"https:\/\/lahorasat.com\/#asesoria\">asesorías personalizadas<\/a> que te ayudarán a entender cómo funciona el SAT.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "166180578721043851-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Siguenos en @lahorasat",
+            "button_link": "https:\/\/instagram.com\/lahorasat\/"
+          }
+        }
+      },
+      "block_order": [
+        "166180578721043851-0",
+        "166180578721043851-1",
+        "166180578721043851-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/redes_798d6d94-e418-4d6e-b553-bdf025a1f8d1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165593621102fa3362": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Aprende lo básico sobre el SAT.",
+        "heading_size": "h1",
+        "description": "<p>Toma nuestros cursos en linea con más de 1,000 graduados que ya aprendieron a dominar al monstruo del SAT.<\/p>",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "cursos",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "inverse",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "1655937550bffc4750": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "¿Necesitas asesoría personalizada?",
+        "heading_size": "h1",
+        "description": "<p>Brindamos asesorías uno a uno con uno de nuestros asesores por Zoom,  resuelve todas tus dudas y regulariza tu situación fiscal<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "asesorias",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "accent-2",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "b2bfdcdf-af63-4c4a-969b-642a6c505028": {
+      "type": "multicolumn",
+      "blocks": {
+        "e330b399-d99b-4d53-9a34-8f5becd1a210": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fintual.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.instagram.com\/p\/CRCJvuLDV0y\/?utm_medium=copy_link"
+          }
+        },
+        "46e5d847-cdf0-4599-9f05-0bc282aab2c5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/telokwento.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.instagram.com\/p\/CSW2qRDHSqQ\/?utm_medium=copy_link"
+          }
+        },
+        "ef9e1e46-f817-461c-9726-ef1dbf748fa1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fondeadora.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.instagram.com\/tv\/CVTceIVFZRR\/"
+          }
+        },
+        "4c41a4bd-bd8e-4994-859f-2612393de42b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ninas.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/open.spotify.com\/episode\/70ZP4KlU9QO21hQjsTv8aH?si=FSCQzSL1S--4WI3Jyo2oQg"
+          }
+        },
+        "001bafda-752e-4f7e-844c-07526fbe2e73": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tipo-y-asi.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/open.spotify.com\/episode\/2lfcJeDXPgohY33yk451d2?si=jRFiesTDQMe_YkE_5tLdYg&dl_branch=1&nd=1"
+          }
+        },
+        "8b17ba91-d7d1-41f0-a5cf-86743986d24c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/animal_c7a2c7bf-9007-480a-a032-4c72fe522962.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.instagram.com\/tv\/CMlcDr_DKtU\/?utm_medium=copy_link"
+          }
+        },
+        "0535271c-68cd-4770-afcf-9f1f4ae9487f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/adn_7ed8e5db-959d-47d0-a714-755940aa61e9.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.adn40.mx\/finanzas\/sat-instagram-facil-deps-especial"
+          }
+        },
+        "b4582336-b18c-47ce-a221-d4e96732d4d9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/legalmente-creativo.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.instagram.com\/tv\/CQzuToHlo2b\/?utm_medium=copy_link"
+          }
+        },
+        "22a8419c-2609-48ff-86b4-2897ae1fbefe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mujeres.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.instagram.com\/p\/CLfw4fQDoMf\/?utm_medium=copy_link"
+          }
+        },
+        "2565c658-ccdb-4be8-9bd9-677b61c22ceb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/chic.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.chicmagazine.com.mx\/magazines#details?ref=supp&date=2020-11-12&ratio=magazine&ratiow=737&ratioh=935&edition=2&id=202&sup=Chic%20Magazine"
+          }
+        }
+      },
+      "block_order": [
+        "e330b399-d99b-4d53-9a34-8f5becd1a210",
+        "46e5d847-cdf0-4599-9f05-0bc282aab2c5",
+        "ef9e1e46-f817-461c-9726-ef1dbf748fa1",
+        "4c41a4bd-bd8e-4994-859f-2612393de42b",
+        "001bafda-752e-4f7e-844c-07526fbe2e73",
+        "8b17ba91-d7d1-41f0-a5cf-86743986d24c",
+        "0535271c-68cd-4770-afcf-9f1f4ae9487f",
+        "b4582336-b18c-47ce-a221-d4e96732d4d9",
+        "22a8419c-2609-48ff-86b4-2897ae1fbefe",
+        "2565c658-ccdb-4be8-9bd9-677b61c22ceb"
+      ],
+      "settings": {
+        "title": "Algunas de nuestras colaboraciones",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "1656361374bc014c62": {
+      "type": "featured-blog",
+      "custom_css": [
+        ".article-card__excerpt {font-size: 16px;}"
+      ],
+      "settings": {
+        "heading": "Aprende más sobre el Sat en nuestro blog",
+        "heading_size": "h2",
+        "blog": "blog",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "accent-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "1666038338bdc9d187": {
+      "type": "apps",
+      "blocks": {
+        "e3bbeaa3-609b-4b9b-a392-2e1eb4590523": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "e3bbeaa3-609b-4b9b-a392-2e1eb4590523"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "95deff6f-69cc-4f35-9054-020bd0303a52": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Suscríbete al newsletter y recibe gratis la mini guía del Portal del Sat",
+            "heading_size": "h1"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "email-form"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "4f9bd404-4d99-414d-9e43-486916f952e2": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<form method=\"post\" action=\"\/cart\/add\">\n  <input name=\"id\" value=\"{{ product.variants.first.id }}\" type=\"hidden\" \/>\n  <input name=\"add\" value=\"ORDER NOW\" type=\"submit\" \/>\n<\/form>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "2449e122-bdb4-4d83-9358-660cf9399840": {
+      "type": "featured-product",
+      "blocks": {
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-1",
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-title-1",
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-2",
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-price-1",
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-variant_picker-1",
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-quantity_selector-1",
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-buy_buttons-1",
+        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-share-1"
+      ],
+      "settings": {
+        "product": "curso-facturacion",
+        "color_scheme": "inverse",
+        "secondary_background": true,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "69a69f93-a82c-45dd-afe9-1fe31608b925",
+    "1661805787e2725a7c",
+    "165593621102fa3362",
+    "1655937550bffc4750",
+    "b2bfdcdf-af63-4c4a-969b-642a6c505028",
+    "1656361374bc014c62",
+    "1666038338bdc9d187",
+    "95deff6f-69cc-4f35-9054-020bd0303a52",
+    "newsletter",
+    "4f9bd404-4d99-414d-9e43-486916f952e2",
+    "2449e122-bdb4-4d83-9358-660cf9399840"
+  ]
+}
