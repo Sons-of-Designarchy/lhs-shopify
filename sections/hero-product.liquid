@@ -22,9 +22,9 @@
         {%- for block in section.blocks -%}
           {%- case block.type -%}
             {%- when 'heading' -%}
-              <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
+              <h2 class="hero-title {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
             {%- when 'text' -%}
-              <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
+              <div class="hero-desc rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             {%- when 'button' -%}
               <form
                 action="/cart/add"
@@ -34,7 +34,7 @@
                   type="hidden"
                   name="id"
                   value="{{ product.variants.first.id }}">
-                <button type="submit" class="button button--primary">Add to Cart</button>
+                <button type="submit" class="button button--primary hero-button">Add to Cart</button>
               </form>
           {%- endcase -%}
         {%- endfor -%}
@@ -49,7 +49,7 @@
         <iframe
           width="700"
           height="400"
-          src="https://www.youtube.com/embed/BxjK_NGBq0o"
+          src="{{ section.settings.video }}"
           title="Curso básico sobre el SAT"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -194,7 +194,20 @@
           "label": "t:sections.rich-text.blocks.button.settings.button_style_secondary.label"
         }
       ]
-    }
+    },
+    {
+      "type": "video",
+      "name": "t:sections.rich-text.blocks.video.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "video",
+          "id": "video",
+          "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+          "label": "t:sections.rich-text.blocks.text.settings.text.label"
+        }
+      ]
+    },
   ],
   "presets": [
     {
