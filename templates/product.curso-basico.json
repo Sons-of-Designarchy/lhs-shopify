@@ -11,9 +11,37 @@
     },
     "1661808968f90ffc1f": {
       "type": "hero-product",
+      "blocks": {
+        "bc5be556-eb87-45d9-a210-eb230ecf9184": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "19d75560-1bf3-433a-b225-9f704145d72a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "3ad0285e-3fbe-4c39-aefd-401d181269d9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "bc5be556-eb87-45d9-a210-eb230ecf9184",
+        "19d75560-1bf3-433a-b225-9f704145d72a",
+        "3ad0285e-3fbe-4c39-aefd-401d181269d9"
+      ],
       "settings": {
-        "custom_liquid": "",
         "color_scheme": "inverse",
+        "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
