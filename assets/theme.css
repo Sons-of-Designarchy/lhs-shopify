@@ -1,0 +1,151 @@
+
+/* reset  */
+
+
+.page-width {
+  max-width: 3000px!important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Meek Display", serif!important;
+}
+
+@font-face {
+  font-family: "Meek Display";
+  src: url("http://danielpliego.com/lahorasat/fonts/Meek_Display_Medium.ttf") 
+      format("truetype");
+}
+
+/* custom sections */
+
+
+image-with-text__content {
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+
+.image-with-text  {
+  background: #603DBD;
+}
+
+.collection__title.title-wrapper, .title, .blog__title {
+  text-align: center!important;
+  max-width: 1000px;
+  margin: 0 auto!important;
+}
+
+.collection__title.title-wrapper {
+  margin: 0 auto 2rem!important;
+}
+
+.title-wrapper-with-link {
+  justify-content: center!important;
+}
+
+.image-with-link {
+  width: 100%;
+height: 100%;
+left: 0 !important;
+transform: none !important;
+}
+.grid  {
+  max-width: 1200px!important;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.color-inverse .title {
+  color: #D5FC6D;
+}
+
+.card__heading {
+  font-size: 2.5rem!important;
+  text-decoration: none!important;
+}
+
+.color-inverse {
+  background-image: url('http://danielpliego.com/lahorasat/images/textura-purple.png')!important;
+}
+
+.row {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.col-md-6 {
+  flex: 1;
+  max-width: 50%;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.section-hero {
+  background: #e9e4f5;
+  padding: 5rem 0;
+    background-image: url('http://danielpliego.com/lahorasat/images/textura-green.png')!important;
+}
+
+.section-template--15693383696554__16565315463aa91188-padding .multicolumn-card-spacing {
+  padding: 0;
+  margin: 0;
+}
+
+.a-underline {
+  background: #D5FC6D;
+  text-decoration: none;
+  color: var(--color-foreground);
+}
+
+.rte {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.main-page-title {
+  margin-bottom: 4rem;
+  text-align: center;
+  background: #D5FC6D;
+  padding: 5rem;
+  color: #fff;
+}
+
+.contact {
+  max-width: 1200px!important;
+  margin: 0 auto;
+}
+
+.rich-text__blocks > * + * {
+  margin-top: -1rem!important;
+}
+
+.main-blog {
+  max-width: 1000px!important;
+}
+
+.main-blog .title--primary {
+  display: none;
+}
+
+.article-card {
+  box-shadow: 0, 10px, 60px, rgba(0,0,0,.15);
+}
+
+
+@media (max-width: 768px) {
+  .row {
+    flex-direction: column;
+  }
+  .col-md-6 {
+  max-width: 100%;
+}
+}
+
+
+
+
+
+
