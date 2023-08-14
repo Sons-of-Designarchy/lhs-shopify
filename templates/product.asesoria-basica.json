@@ -679,6 +679,11 @@
         "padding_bottom": 52
       }
     },
+    "1661808968f90ffkeofkeo": {
+      "type": "banner-comunidad",
+      "settings": {
+      }
+    },
     "d72c8871-1fcc-4851-8bbb-36b4ca453f60": {
       "type": "multicolumn",
       "blocks": {
@@ -799,9 +804,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "1661808968f90ffkeofkeo": {
-      "type": "banner-comunidad"
     },
     "6f640d51-2c84-4b2f-9bea-a40c335cc755": {
       "type": "multicolumn",
@@ -969,10 +971,10 @@
     "newsletter",
     "beeff29b-a2cf-4381-8d89-ccde6df003b5",
     "5705dd9a-9607-4cb2-80d9-214139807955",
+    "1661808968f90ffkeofkeo",
     "d72c8871-1fcc-4851-8bbb-36b4ca453f60",
     "be21e530-783c-45f4-a084-b25ed9ab18f8",
     "6f640d51-2c84-4b2f-9bea-a40c335cc755",
-    "84801eb0-8f66-4504-a54f-0cc1111b4c9f",
-    "1661808968f90ffkeofkeo"
+    "84801eb0-8f66-4504-a54f-0cc1111b4c9f"
   ]
 }
