@@ -11,28 +11,11 @@
     },
     "1661808968f90ffc1f": {
       "type": "add-to-cart",
-      "blocks": {
-        "0123456": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h2"
-          }
-        },
-        "012345": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Sabemos que ser adulto es muy difícil, pero nada es tan difícil como la plataforma del SAT, por lo mismo creamos....<\/p>"
-          }
-        },
-        "0123940": {
-          "type": "button"
-        }
-      },
       "settings": {
+        "custom_liquid": "",
         "color_scheme": "inverse",
-        "padding_top": 56,
-        "padding_bottom": 56
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "166180916257454da2": {
@@ -889,8 +872,4 @@
     "39282e7d-5d5c-48ac-8175-59cf86b0043b",
     "f1c312b8-10de-458b-b7a8-6d42ca5b16e0"
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> a1f6bb87a0bc839536ec926716c2484746f077ef
