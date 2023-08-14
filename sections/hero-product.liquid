@@ -22,9 +22,9 @@
         {%- for block in section.blocks -%}
           {%- case block.type -%}
             {%- when 'heading' -%}
-              <h2 class="hero-title {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
+              <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
             {%- when 'text' -%}
-              <div class="hero-desc rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
+              <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             {%- when 'button' -%}
               <form
                 action="/cart/add"
@@ -34,7 +34,11 @@
                   type="hidden"
                   name="id"
                   value="{{ product.variants.first.id }}">
+<<<<<<< HEAD
                 <button type="submit" class="button button--primary hero-button">{{ block.settings.button.text }}</button>
+=======
+                <button type="submit" class="button button--primary">Add to Cart</button>
+>>>>>>> ccf80362447dd7ebedb7d9ea1e979fac7fb9edde
               </form>
           {%- endcase -%}
         {%- endfor -%}
@@ -49,7 +53,7 @@
         <iframe
           width="700"
           height="400"
-          src="{{ section.settings.video }}"
+          src="https://www.youtube.com/embed/BxjK_NGBq0o"
           title="Curso básico sobre el SAT"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

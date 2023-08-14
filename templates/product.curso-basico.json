@@ -1,14 +1,5 @@
 {
   "sections": {
-    "fb6c08f1-1909-4523-b510-10c112129d8f": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"section section-purple\">\n  <div class=\"container\">\n    <div class=\"row align-items-center\">\n      <div class=\"col-md-6\">\n        <h1 class=\"mb-4\">\n          Cómo darte de alta en el SAT y pagar tus impuestos, tú mismo.\n        <\/h1>\n        <p class=\"font-lg\">\n          <strong>Un curso para NO contadores.<\/strong><\/p><p>Todo lo esencial que necesitas saber para sobrevivir al SAT.\n        <\/p>\n      <\/div>\n      <div class=\"col-md-6\">\n        <iframe width=\"700\" height=\"400\" src=\"https:\/\/www.youtube.com\/embed\/BxjK_NGBq0o\"\n          title=\"Curso básico sobre el SAT\" frameborder=\"0\"\n          allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\"\n          allowfullscreen><\/iframe>\n      <\/div>\n    <\/div>\n  <\/div>\n<\/div>",
-        "color_scheme": "inverse",
-        "padding_top": 56,
-        "padding_bottom": 56
-      }
-    },
     "1661808968f90ffc1f": {
       "type": "hero-product",
       "blocks": {
@@ -25,10 +16,10 @@
             "text": "<p><strong>Un curso para NO contadores.<\/strong><\/p><p>Todo lo esencial que necesitas saber para sobrevivir al SAT.<br\/>        <\/p>"
           }
         },
-        "3ad0285e-3fbe-4c39-aefd-401d181269d9": {
+        "fe05dc65-f683-49dc-bc03-29598735994c": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Comprar curso",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -37,13 +28,13 @@
       "block_order": [
         "bc5be556-eb87-45d9-a210-eb230ecf9184",
         "19d75560-1bf3-433a-b225-9f704145d72a",
-        "3ad0285e-3fbe-4c39-aefd-401d181269d9"
+        "fe05dc65-f683-49dc-bc03-29598735994c"
       ],
       "settings": {
         "color_scheme": "inverse",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 80,
+        "padding_bottom": 80
       }
     },
     "166180916257454da2": {
@@ -880,7 +871,6 @@
     }
   },
   "order": [
-    "fb6c08f1-1909-4523-b510-10c112129d8f",
     "1661808968f90ffc1f",
     "166180916257454da2",
     "166180979944d69ef0",
