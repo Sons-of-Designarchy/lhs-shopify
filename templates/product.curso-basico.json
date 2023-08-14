@@ -16,10 +16,10 @@
             "text": "<p><strong>Un curso para NO contadores.<\/strong><\/p><p>Todo lo esencial que necesitas saber para sobrevivir al SAT.<br\/>        <\/p>"
           }
         },
-        "e7f2e321-5eb9-44d2-830b-90b5564a564c": {
+        "3124b23d-aad8-4729-9418-8969c68d6b5b": {
           "type": "button",
           "settings": {
-            "button_label": "hi",
+            "button_label": "Agregar al carrito",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -28,7 +28,7 @@
       "block_order": [
         "bc5be556-eb87-45d9-a210-eb230ecf9184",
         "19d75560-1bf3-433a-b225-9f704145d72a",
-        "e7f2e321-5eb9-44d2-830b-90b5564a564c"
+        "3124b23d-aad8-4729-9418-8969c68d6b5b"
       ],
       "settings": {
         "color_scheme": "inverse",
