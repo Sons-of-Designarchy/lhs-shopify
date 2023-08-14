@@ -261,6 +261,40 @@
         "padding_bottom": 100
       }
     },
+    "58b3d2f9-2073-4a73-ad37-c7c280b00259": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16188553724074__58b3d2f9-2073-4a73-ad37-c7c280b00259-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Suscríbete al newsletter y recibe gratis la mini guía del Portal del Sat",
+            "heading_size": "h1"
+          }
+        },
+        "template--16188553724074__58b3d2f9-2073-4a73-ad37-c7c280b00259-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--16188553724074__58b3d2f9-2073-4a73-ad37-c7c280b00259-email_form-1": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16188553724074__58b3d2f9-2073-4a73-ad37-c7c280b00259-heading-1",
+        "template--16188553724074__58b3d2f9-2073-4a73-ad37-c7c280b00259-paragraph-1",
+        "template--16188553724074__58b3d2f9-2073-4a73-ad37-c7c280b00259-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1666038338bdc9d187": {
       "type": "apps",
       "blocks": {
@@ -317,87 +351,6 @@
         "padding_top": 80,
         "padding_bottom": 80
       }
-    },
-    "4f9bd404-4d99-414d-9e43-486916f952e2": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<form method=\"post\" action=\"\/cart\/add\">\n  <input name=\"id\" value=\"{{ product.variants.first.id }}\" type=\"hidden\" \/>\n  <input name=\"add\" value=\"ORDER NOW\" type=\"submit\" \/>\n<\/form>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "2449e122-bdb4-4d83-9358-660cf9399840": {
-      "type": "featured-product",
-      "blocks": {
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-title-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-price-1": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-variant_picker-1": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-quantity_selector-1": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-buy_buttons-1": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-share-1": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-1",
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-title-1",
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-text-2",
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-price-1",
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-variant_picker-1",
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-quantity_selector-1",
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-buy_buttons-1",
-        "template--15693383467178__2449e122-bdb4-4d83-9358-660cf9399840-share-1"
-      ],
-      "settings": {
-        "product": "curso-facturacion",
-        "color_scheme": "inverse",
-        "secondary_background": true,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -407,10 +360,9 @@
     "1655937550bffc4750",
     "b2bfdcdf-af63-4c4a-969b-642a6c505028",
     "1656361374bc014c62",
+    "58b3d2f9-2073-4a73-ad37-c7c280b00259",
     "1666038338bdc9d187",
     "95deff6f-69cc-4f35-9054-020bd0303a52",
-    "newsletter",
-    "4f9bd404-4d99-414d-9e43-486916f952e2",
-    "2449e122-bdb4-4d83-9358-660cf9399840"
+    "newsletter"
   ]
 }
