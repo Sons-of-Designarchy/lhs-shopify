@@ -34,7 +34,7 @@
                   type="hidden"
                   name="id"
                   value="{{ product.variants.first.id }}">
-                <button type="submit" class="button button--primary hero-button">Add to Cart</button>
+                <button type="submit" class="button button--primary hero-button">{{ block.settings.button.text }}</button>
               </form>
           {%- endcase -%}
         {%- endfor -%}
@@ -196,13 +196,13 @@
       ]
     },
     {
-      "type": "video",
-      "name": "t:sections.rich-text.blocks.video.name",
+      "type": "text",
+      "name": "t:sections.rich-text.blocks.text.name",
       "limit": 1,
       "settings": [
         {
-          "type": "video",
-          "id": "video",
+          "type": "text",
+          "id": "video_url",
           "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
           "label": "t:sections.rich-text.blocks.text.settings.text.label"
         }
