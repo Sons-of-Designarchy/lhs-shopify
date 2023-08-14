@@ -25,7 +25,7 @@
             "text": "<p><strong>Un curso para NO contadores.<\/strong><\/p><p>Todo lo esencial que necesitas saber para sobrevivir al SAT.<br\/>        <\/p>"
           }
         },
-        "3ad0285e-3fbe-4c39-aefd-401d181269d9": {
+        "fe05dc65-f683-49dc-bc03-29598735994c": {
           "type": "button",
           "settings": {
             "button_label": "Button label",
@@ -37,7 +37,7 @@
       "block_order": [
         "bc5be556-eb87-45d9-a210-eb230ecf9184",
         "19d75560-1bf3-433a-b225-9f704145d72a",
-        "3ad0285e-3fbe-4c39-aefd-401d181269d9"
+        "fe05dc65-f683-49dc-bc03-29598735994c"
       ],
       "settings": {
         "color_scheme": "inverse",
