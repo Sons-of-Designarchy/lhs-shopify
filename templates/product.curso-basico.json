@@ -10,7 +10,7 @@
       }
     },
     "1661808968f90ffc1f": {
-      "type": "add-to-cart",
+      "type": "hero-product",
       "settings": {
         "custom_liquid": "",
         "color_scheme": "inverse",
