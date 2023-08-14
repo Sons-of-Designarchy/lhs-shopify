@@ -303,6 +303,13 @@
           "settings": {
           }
         },
+        "a5ede8b3-8b72-4986-b985-533c4dcd1fd3": {
+          "type": "text",
+          "settings": {
+            "text": "Incluye: 2 horas y media de curso, 2 materiales extra de apoyo, Acceso ilimitado",
+            "text_style": "body"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -314,13 +321,6 @@
           "disabled": true,
           "settings": {
           }
-        },
-        "a5ede8b3-8b72-4986-b985-533c4dcd1fd3": {
-          "type": "text",
-          "settings": {
-            "text": "Incluye: 2 horas y media de curso, 2 materiales extra de apoyo, Acceso ilimitado",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
@@ -330,9 +330,9 @@
         "bc32b55e-9752-40df-9373-26cb392479b4",
         "product-rating",
         "price",
+        "a5ede8b3-8b72-4986-b985-533c4dcd1fd3",
         "buy_buttons",
-        "description",
-        "a5ede8b3-8b72-4986-b985-533c4dcd1fd3"
+        "description"
       ],
       "settings": {
         "enable_sticky_info": true,
