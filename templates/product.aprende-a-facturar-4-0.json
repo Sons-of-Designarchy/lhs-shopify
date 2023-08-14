@@ -1,12 +1,40 @@
 {
   "sections": {
-    "fb6c08f1-1909-4523-b510-10c112129d8f": {
-      "type": "custom-liquid",
+    "89e4bb07-fe14-4e70-ace7-a96be7e4874f": {
+      "type": "hero-product",
+      "blocks": {
+        "template--16188553756842__89e4bb07-fe14-4e70-ace7-a96be7e4874f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Aprende a facturar en la plataforma del SAT",
+            "heading_size": "h1"
+          }
+        },
+        "template--16188553756842__89e4bb07-fe14-4e70-ace7-a96be7e4874f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aquí aprenderás de forma práctica cómo facturar y navegar a través del portal del SAT en la versión 4.0<\/p>"
+          }
+        },
+        "template--16188553756842__89e4bb07-fe14-4e70-ace7-a96be7e4874f-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16188553756842__89e4bb07-fe14-4e70-ace7-a96be7e4874f-heading-1",
+        "template--16188553756842__89e4bb07-fe14-4e70-ace7-a96be7e4874f-text-1",
+        "template--16188553756842__89e4bb07-fe14-4e70-ace7-a96be7e4874f-button-1"
+      ],
       "settings": {
-        "custom_liquid": "<div class=\"section section-purple\">\n  <div class=\"container\">\n    <div class=\"row align-items-center\">\n      <div class=\"col-md-6\">\n        <h1 class=\"mb-4\">\n          Cómo darte de alta en el SAT y pagar tus impuestos, tú mismo.\n        <\/h1>\n        <p class=\"font-lg\">\n          <strong>Un curso para NO contadores.<\/strong> Todo lo esencial que necesitas saber para sobrevivir al SAT.\n        <\/p>\n        <div class=\"prices\">\n          <p class=\"price-discount\">Costo: $899<\/p>\n          <p class=\"prince-actual\">$399<\/p>\n        <\/div>\n        <a href=\"#\" class=\"btn btn-primary\">\n          COMPRAR CURSO\n        <\/a>\n      <\/div>\n      <div class=\"col-md-6\">\n        <iframe width=\"700\" height=\"400\" src=\"https:\/\/www.youtube.com\/embed\/BxjK_NGBq0o\"\n          title=\"Curso básico sobre el SAT\" frameborder=\"0\"\n          allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\"\n          allowfullscreen><\/iframe>\n      <\/div>\n    <\/div>\n  <\/div>\n<\/div>",
         "color_scheme": "inverse",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1661808968f90ffc1f": {
@@ -682,7 +710,7 @@
     }
   },
   "order": [
-    "fb6c08f1-1909-4523-b510-10c112129d8f",
+    "89e4bb07-fe14-4e70-ace7-a96be7e4874f",
     "1661808968f90ffc1f",
     "14c010e5-dfbe-4867-888b-8aede2e48610",
     "166180979944d69ef0",
