@@ -15,7 +15,7 @@
 {%- endstyle -%}
 
 
-<div class="section section-purple">
+<div class="section hero-product color-{{ section.settings.color_scheme }}">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6">
@@ -57,19 +57,6 @@
       </div>
     </div>
   </div>
-</div>
-
-<div class="add-to-cart color-{{ section.settings.color_scheme }}">
-  <form
-    action="/cart/add"
-    method="post"
-    enctype="multipart/form-data">
-    <input
-      type="hidden"
-      name="id"
-      value="{{ product.variants.first.id }}">
-    <button type="submit" class="btn btn-primary">Add to Cart</button>
-  </form>
 </div>
 
 {% schema %}
