@@ -23,13 +23,6 @@
             "text_style": "body"
           }
         },
-        "d275fe08-bf73-45e2-8bb8-be2cdf425d9c": {
-          "type": "text",
-          "settings": {
-            "text": "No te preocupes, aquí te damos apoyo práctico en las funciones más comunes del portal en una asesoría 1-1 en videollamada con uno de nuestros expertos.Agendar asesoria",
-            "text_style": "body"
-          }
-        },
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-text-2": {
           "type": "text",
           "settings": {
@@ -72,7 +65,6 @@
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-text-1",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-title-1",
         "70399914-804f-47d5-b2b4-a7cff41e8fd0",
-        "d275fe08-bf73-45e2-8bb8-be2cdf425d9c",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-text-2",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-price-1",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-variant_picker-1",
@@ -96,7 +88,7 @@
         "template--16181233778858__c7c8a3b1-eb27-4a8c-a8ca-6e88b95184ec-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Domina al SATanás desde el primer día",
+            "heading": "Evita que el SAT te multe por no hacer tu declaración.",
             "heading_size": "h1"
           }
         }
@@ -232,7 +224,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Conocer tu situación fiscal<\/li><\/ul>",
+            "text": "<p>Resolver todas tus dudas<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -241,7 +233,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Elegir el mejor regimen para ti<\/li><\/ul>",
+            "text": "<p>Ingresamos tu solicitud para recuperar el ISR a favor (según sea el caso)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -275,7 +267,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Encontrar los documentos mas importantes en el portal<\/li><\/ul>",
+            "text": "<p>Te enseñamos cómo lidiar con el SAT de forma sencilla<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -284,7 +276,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Hacer un plan para tener una mejor relación con el SAT<\/li><\/ul>",
+            "text": "<p>Aprendes cómo hacer la declaración para el próximo año<\/p>",
             "link_label": "",
             "link": ""
           }
