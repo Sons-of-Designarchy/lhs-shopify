@@ -36,6 +36,7 @@
             {%- when 'heading' -%}
               <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
             {%- when 'text' -%}
+              <h5>de $800 <span style="color: #d5f6cd">a sólo $349</span></h5>
               <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             {%- when 'button' -%}
               <form
@@ -46,7 +47,7 @@
                   type="hidden"
                   name="id"
                   value="{{ product.variants.first.id }}">
-                <button type="submit" class="button button--primary hero-button">Agregar al carrito</button>
+                <button type="submit" class="button button--primary hero-button" style="background: #d5f6cd">Agregar al carrito</button>
               </form>
           {%- endcase -%}
         {%- endfor -%}
