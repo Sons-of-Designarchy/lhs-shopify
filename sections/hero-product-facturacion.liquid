@@ -12,18 +12,6 @@
       px;
     }
   }
-
-  .hero-product {
-    padding: 3rem 0;
-  }
-
-  .hero-product h1 {
-    margin-bottom: 1rem !important;
-  }
-  .hero-product button {
-    margin-top: 2rem;
-  }
-
 {%- endstyle -%}
 
 
@@ -34,7 +22,6 @@
         {%- for block in section.blocks -%}
           {%- case block.type -%}
             {%- when 'heading' -%}
-              <p>Grabación de Webinar</p>
               <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
             {%- when 'text' -%}
               <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
@@ -59,7 +46,14 @@
           {{ section.settings.subtitle }}
       </div>
       <div class="col-md-6">
-        foto aqui
+        <iframe
+          width="700"
+          height="400"
+          src="https://www.youtube.com/embed/BxjK_NGBq0o"
+          title="Curso básico sobre el SAT"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -200,7 +194,20 @@
           "label": "t:sections.rich-text.blocks.button.settings.button_style_secondary.label"
         }
       ]
-    }
+    },
+    {
+      "type": "text",
+      "name": "t:sections.rich-text.blocks.text.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "video_url",
+          "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+          "label": "t:sections.rich-text.blocks.text.settings.text.label"
+        }
+      ]
+    },
   ],
   "presets": [
     {
