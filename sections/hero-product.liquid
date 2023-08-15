@@ -36,7 +36,7 @@
             {%- when 'heading' -%}
               <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
             {%- when 'text' -%}
-              <h3>de $800 <span style="color: rgb(211, 252, 102)">a sólo $349</span></h3>
+              <h3>de $800 <span style="color: rgb(211, 252, 102); font-size: 2rem">a sólo $349</span></h3>
               <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             {%- when 'button' -%}
               <form
