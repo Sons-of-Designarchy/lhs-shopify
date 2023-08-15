@@ -320,7 +320,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-publico.svg",
-            "title": "Recien incorporados",
+            "title": "Freelancers",
             "text": "<p>Recién incorporadxs al SAT que no entienden nada al respecto.<\/p>",
             "link_label": "",
             "link": ""
@@ -331,7 +331,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-freelancers.svg",
             "title": "Freelancers y emprendedores",
-            "text": "<p>Que tienen que dar factura a sus clientes y quieren saber cómo hacerlo y usar esto a su favor para tener un futuro tranquilo<\/p>",
+            "text": "<p>Que quieren aprender a hacer su declaración anual.<\/p>",
             "link_label": "",
             "link": ""
           }
