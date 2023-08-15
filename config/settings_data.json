@@ -388,7 +388,8 @@
       ".rte {padding: 1rem;}",
       ".product {margin: auto;}",
       ".section-purple {background: var(--purple) url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0625\/4700\/1514\/files\/textura-purple_e90ba6fd-ac8f-4400-9b29-3d6bac22b9fd.png\"); color: #fff;}",
-      ".section-purple h1,.section-purple p {color: #fff;}"
+      ".section-purple h1,.section-purple p {color: #fff;}",
+      ".testing-this {color: red;}"
     ]
   }
 }
