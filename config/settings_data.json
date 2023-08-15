@@ -384,7 +384,7 @@
       ".section-purple h1,.section-purple p {color: #fff;}",
       ".testing-this {color: red;}",
       ".article-template {max-width: 1200px; margin: 0 auto;}",
-      ".whatsapp-button {position: fixed; right: 0; top: 0;}"
+      ".whatsapp-button {position: fixed; right: 0; bottom: 0; display: inline-block; position: relative; bottom: 1rem; right: 1rem; background-color: var(--green); border-color: var(--purple); border-radius: 25px; width: 64.34px; height: 60px; line-height: 55px; transition: all 0.5s;}"
     ]
   }
 }
