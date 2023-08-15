@@ -19,14 +19,7 @@
         "70399914-804f-47d5-b2b4-a7cff41e8fd0": {
           "type": "text",
           "settings": {
-            "text": "¿Tu situación fiscal no te deja dormir?",
-            "text_style": "body"
-          }
-        },
-        "d275fe08-bf73-45e2-8bb8-be2cdf425d9c": {
-          "type": "text",
-          "settings": {
-            "text": "No te preocupes, aquí te damos apoyo práctico en las funciones más comunes del portal en una asesoría 1-1 en videollamada con uno de nuestros expertos.Agendar asesoria",
+            "text": "Nosotras te explicamos cómo hacerla y te enseñamos a presentarla paso a paso desde la comodidad de tu hogar.",
             "text_style": "body"
           }
         },
@@ -72,7 +65,6 @@
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-text-1",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-title-1",
         "70399914-804f-47d5-b2b4-a7cff41e8fd0",
-        "d275fe08-bf73-45e2-8bb8-be2cdf425d9c",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-text-2",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-price-1",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-variant_picker-1",
@@ -81,7 +73,7 @@
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-share-1"
       ],
       "settings": {
-        "product": "asesoria-practica",
+        "product": "asesoria-para-declaracion-anual",
         "color_scheme": "accent-2",
         "secondary_background": false,
         "hide_variants": false,
@@ -101,7 +93,7 @@
         "template--16181233778858__c7c8a3b1-eb27-4a8c-a8ca-6e88b95184ec-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Domina al SATanás desde el primer día",
+            "heading": "Evita que el SAT te multe por no hacer tu declaración.",
             "heading_size": "h1"
           }
         }
@@ -237,7 +229,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Conocer tu situación fiscal<\/li><\/ul>",
+            "text": "<p>Resolver todas tus dudas<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -246,7 +238,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Elegir el mejor regimen para ti<\/li><\/ul>",
+            "text": "<p>Ingresamos tu solicitud para recuperar el ISR a favor (según sea el caso)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -280,7 +272,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Encontrar los documentos mas importantes en el portal<\/li><\/ul>",
+            "text": "<p>Te enseñamos cómo lidiar con el SAT de forma sencilla<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -289,7 +281,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Hacer un plan para tener una mejor relación con el SAT<\/li><\/ul>",
+            "text": "<p>Aprendes cómo hacer la declaración para el próximo año<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -323,8 +315,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-millenials.svg",
-            "title": "Nuevos contribuyentes",
-            "text": "<p>Lxs que quieren (o tienen) que darse de alta.<\/p>",
+            "title": "Asalariadxs",
+            "text": "<p>Que quieren obtener su ISR a favor.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -333,7 +325,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-publico.svg",
-            "title": "Recien incorporados",
+            "title": "Freelancers",
             "text": "<p>Recién incorporadxs al SAT que no entienden nada al respecto.<\/p>",
             "link_label": "",
             "link": ""
@@ -344,7 +336,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-freelancers.svg",
             "title": "Freelancers y emprendedores",
-            "text": "<p>Que tienen que dar factura a sus clientes y quieren saber cómo hacerlo y usar esto a su favor para tener un futuro tranquilo<\/p>",
+            "text": "<p>Que quieren aprender a hacer su declaración anual.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -378,7 +370,7 @@
         "template--15693383368874__a90acf9e-d43b-406b-b2ba-04f1af94d30d-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "¿Qué aprenderé aquí?",
+            "heading": "Requisitos",
             "heading_size": "h1"
           }
         }
@@ -400,7 +392,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Conocer tu situación fiscal<\/li><li>Elegir el mejor régimen para ti<\/li><li>Entender lo básico para estar al día con el SAT<\/li><\/ul>",
+            "text": "<ul><li>Acceso a tu portal del SAT<\/li><li>E-firma vigente (en ciertos casos)<\/li><li>Buzón tributario activado<\/li><li>Relación total de ingresos del 01 al 31 de dic. del 2021<\/li><li>Computadora y acceso a buen internet<br\/>                        <br\/>                        <\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -558,7 +550,7 @@
         "f036bb4a-9373-4f27-8e53-08f70bd05972": {
           "type": "text",
           "settings": {
-            "text": "SESIÓN EN ZOOM DE 1 HORA",
+            "text": "SESIÓN EN VIDEO LLAMADA DE 80 MIN",
             "text_style": "uppercase"
           }
         },
@@ -634,7 +626,7 @@
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-share-1"
       ],
       "settings": {
-        "product": "asesoria-practica",
+        "product": "asesoria-para-declaracion-anual",
         "color_scheme": "accent-1",
         "secondary_background": false,
         "hide_variants": false,
@@ -649,7 +641,7 @@
         "template--15693383368874__5705dd9a-9607-4cb2-80d9-214139807955-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Inicia tu vida fiscal con el pie derecho",
+            "heading": "Domina al SAT y maneja tu vida fiscal",
             "heading_size": "h1"
           }
         }
@@ -769,7 +761,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "accent-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -912,7 +904,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 52,
         "padding_bottom": 52
