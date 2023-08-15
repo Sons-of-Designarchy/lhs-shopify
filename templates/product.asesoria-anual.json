@@ -310,8 +310,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-millenials.svg",
-            "title": "Nuevos contribuyentes",
-            "text": "<p>Lxs que quieren (o tienen) que darse de alta.<\/p>",
+            "title": "Asalariadxs",
+            "text": "<p>Que quieren obtener su ISR a favor.<\/p>",
             "link_label": "",
             "link": ""
           }
