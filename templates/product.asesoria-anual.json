@@ -19,7 +19,7 @@
         "70399914-804f-47d5-b2b4-a7cff41e8fd0": {
           "type": "text",
           "settings": {
-            "text": "¿Tu situación fiscal no te deja dormir?",
+            "text": "Nosotras te explicamos cómo hacerla y te enseñamos a presentarla paso a paso desde la comodidad de tu hogar.",
             "text_style": "body"
           }
         },
@@ -81,7 +81,7 @@
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-share-1"
       ],
       "settings": {
-        "product": "asesoria-practica",
+        "product": "asesoria-para-declaracion-anual",
         "color_scheme": "accent-2",
         "secondary_background": false,
         "hide_variants": false,
