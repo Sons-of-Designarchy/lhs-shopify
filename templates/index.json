@@ -288,6 +288,7 @@
         "template--16188553724074__58b3d2f9-2073-4a73-ad37-c7c280b00259-paragraph-1",
         "template--16188553724074__58b3d2f9-2073-4a73-ad37-c7c280b00259-email_form-1"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
