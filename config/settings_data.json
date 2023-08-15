@@ -381,7 +381,6 @@
       ".article-card {box-shadow: 0 0 30px rgba(0, 0, 0, 0.05);}",
       ".card__information {padding: 0.5rem !important;}",
       ".blog-articles .card-wrapper {padding: 1rem;}",
-      ".article-template {max-width: 1000px; margin: 0 auto;}",
       ".article-template p {font-family: georgia !important; letter-spacing: -0.25px; font-size: 24px; color: rgb(96, 61, 189);}",
       ".article-template__link {padding: 1rem 0; border-top: 1px solid #eee; color: rgb(96, 61, 189) !important;}",
       ".main-blog {max-width: none !important; background: #dbd2ef;}",
