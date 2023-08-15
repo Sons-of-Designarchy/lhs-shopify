@@ -545,7 +545,7 @@
         "f036bb4a-9373-4f27-8e53-08f70bd05972": {
           "type": "text",
           "settings": {
-            "text": "SESIÓN EN ZOOM DE 1 HORA",
+            "text": "SESIÓN EN VIDEO LLAMADA DE 80 MIN",
             "text_style": "uppercase"
           }
         },
@@ -621,7 +621,7 @@
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-share-1"
       ],
       "settings": {
-        "product": "asesoria-practica",
+        "product": "asesoria-para-declaracion-anual",
         "color_scheme": "accent-1",
         "secondary_background": false,
         "hide_variants": false,
