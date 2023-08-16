@@ -383,7 +383,8 @@
       ".section-purple {background: var(--purple) url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0625\/4700\/1514\/files\/textura-purple_e90ba6fd-ac8f-4400-9b29-3d6bac22b9fd.png\"); color: #fff;}",
       ".section-purple h1,.section-purple p {color: #fff;}",
       ".testing-this {color: red;}",
-      ".article-template {max-width: 1200px; margin: 0 auto;}"
+      ".article-template {max-width: 1200px; margin: 0 auto;}",
+      ".whatsapp-button {position: fixed;right: 0;bottom: 0;display: flex;bottom: 1rem;right: 1rem;background-color: var(--green);border-color: var(--purple);border-radius: 25px;width: 64.34px;height: 60px;line-height: 55px;transition: all 0.5s;align-items: center;justify-content: center;box-shadow: 0 5px 5px rgba(0,0,0,.3);}"
     ]
   }
 }
