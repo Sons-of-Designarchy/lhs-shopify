@@ -6,8 +6,8 @@
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-text-1": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
+            "text": "FECHA DEL EVENTO",
+            "text_style": "body"
           }
         },
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-title-1": {
@@ -396,50 +396,6 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "9a989b3a-b863-4afb-9905-ff4c87157184": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15845408473258__9a989b3a-b863-4afb-9905-ff4c87157184-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Somos la comunidad de educación fiscal más grande",
-            "heading_size": "h2"
-          }
-        },
-        "template--15845408473258__9a989b3a-b863-4afb-9905-ff4c87157184-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>+100 cursos presenciales a escuelas y empresas<\/li><li>Miles de cursos online vendidos<\/li><li>+1,000 horas de asesoría personalizada y a grupos<\/li><\/ul>",
-            "text_style": "body"
-          }
-        },
-        "ff74cd01-8e48-4883-999e-ad69dd0c4c1f": {
-          "type": "button",
-          "settings": {
-            "button_label": "Siguenos en Instagram",
-            "button_link": "https:\/\/www.instagram.com\/lahorasat\/"
-          }
-        }
-      },
-      "block_order": [
-        "template--15845408473258__9a989b3a-b863-4afb-9905-ff4c87157184-heading-1",
-        "template--15845408473258__9a989b3a-b863-4afb-9905-ff4c87157184-text-1",
-        "ff74cd01-8e48-4883-999e-ad69dd0c4c1f"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/foto-about.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "accent-1",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -917,7 +873,6 @@
     "main",
     "product-recommendations",
     "1661808305ffc5a21a",
-    "9a989b3a-b863-4afb-9905-ff4c87157184",
     "40780aef-8c85-45c9-be55-758eb9e4c474",
     "849d9b06-a903-4ad1-8e91-9e717712b3ce",
     "5ba78ac5-d6d5-427b-9226-b85994865435",
