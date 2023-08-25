@@ -1,40 +1,77 @@
 {
   "sections": {
-    "1661808968f90ffc1f": {
-      "type": "hero-product",
+    "f9c03ca0-0b41-4c3c-aac6-c313cc969361": {
+      "type": "featured-product",
       "blocks": {
-        "bc5be556-eb87-45d9-a210-eb230ecf9184": {
-          "type": "heading",
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-text-1": {
+          "type": "text",
           "settings": {
-            "heading": "Cómo darte de alta en el SAT y pagar tus impuestos, tú mismo.",
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-title-1": {
+          "type": "title",
+          "settings": {
             "heading_size": "h1"
           }
         },
-        "19d75560-1bf3-433a-b225-9f704145d72a": {
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-text-2": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Un curso para NO contadores.<\/strong><\/p><p>Todo lo esencial que necesitas saber para sobrevivir al SAT.<br\/>        <\/p>"
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
           }
         },
-        "3124b23d-aad8-4729-9418-8969c68d6b5b": {
-          "type": "button",
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-price-1": {
+          "type": "price",
           "settings": {
-            "button_label": "Agregar al carrito",
-            "button_link": "",
-            "button_style_secondary": false
+          }
+        },
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-quantity_selector-1": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-share-1": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
       "block_order": [
-        "bc5be556-eb87-45d9-a210-eb230ecf9184",
-        "19d75560-1bf3-433a-b225-9f704145d72a",
-        "3124b23d-aad8-4729-9418-8969c68d6b5b"
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-text-1",
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-title-1",
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-text-2",
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-price-1",
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-variant_picker-1",
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-quantity_selector-1",
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-buy_buttons-1",
+        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-share-1"
       ],
       "settings": {
+        "product": "webinar-facturacion",
         "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 80,
-        "padding_bottom": 80
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "166180916257454da2": {
@@ -871,7 +908,7 @@
     }
   },
   "order": [
-    "1661808968f90ffc1f",
+    "f9c03ca0-0b41-4c3c-aac6-c313cc969361",
     "166180916257454da2",
     "166180979944d69ef0",
     "6cb7fb1c-a0db-4ee2-8718-25d62b745ea0",
