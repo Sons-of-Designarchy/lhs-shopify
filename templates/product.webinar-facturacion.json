@@ -37,46 +37,6 @@
         "padding_bottom": 80
       }
     },
-    "1661808968f90ffc1ekf": {
-      "type": "hero-product-basico",
-      "blocks": {
-        "bc5be556-eb87-45d9-a210-eb230ecf9184": {
-          "type": "heading",
-          "settings": {
-            "heading": "Cómo darte de alta en el SAT y pagar tus impuestos, tú mismo.",
-            "heading_size": "h1"
-          }
-        },
-        "19d75560-1bf3-433a-b225-9f704145d72a": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Un curso para NO contadores.<\/strong><\/p><p>Todo lo esencial que necesitas saber para sobrevivir al SAT.<br\/>        <\/p>"
-          }
-        },
-        "e7f2e321-5eb9-44d2-830b-90b5564a564c": {
-          "type": "button",
-          "settings": {
-            "button_label": "hi",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "e7f2e321-5eb9-44d2-830b-9okgrogk": {
-          "type": "text"
-        }
-      },
-      "block_order": [
-        "bc5be556-eb87-45d9-a210-eb230ecf9184",
-        "19d75560-1bf3-433a-b225-9f704145d72a",
-        "e7f2e321-5eb9-44d2-830b-90b5564a564c"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 80,
-        "padding_bottom": 80
-      }
-    },
     "166180916257454da2": {
       "type": "rich-text",
       "blocks": {
