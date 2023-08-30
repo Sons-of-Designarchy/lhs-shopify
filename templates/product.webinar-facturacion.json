@@ -40,6 +40,13 @@
           "settings": {
           }
         },
+        "dd9c79f3-51be-4a85-b251-8a0c8c1dbdef": {
+          "type": "text",
+          "settings": {
+            "text": "Aprenderás a cómo navegar en el portal del SAT, emitir facturas, cancelarlas y corregir algunos errores comunes que suelen suceder en la versión 4.0.",
+            "text_style": "body"
+          }
+        },
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-buy_buttons-1": {
           "type": "buy_buttons",
           "settings": {
@@ -61,6 +68,7 @@
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-price-1",
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-variant_picker-1",
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-quantity_selector-1",
+        "dd9c79f3-51be-4a85-b251-8a0c8c1dbdef",
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-buy_buttons-1",
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-share-1"
       ],
@@ -72,6 +80,11 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "1661808968f90ffkeofkeo": {
+      "type": "banner-comunidad",
+      "settings": {
       }
     },
     "166180916257454da2": {
@@ -398,11 +411,6 @@
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "1661808968f90ffkeofkeo": {
-      "type": "banner-comunidad",
-      "settings": {
       }
     },
     "40780aef-8c85-45c9-be55-758eb9e4c474": {
@@ -870,6 +878,7 @@
   },
   "order": [
     "f9c03ca0-0b41-4c3c-aac6-c313cc969361",
+    "1661808968f90ffkeofkeo",
     "166180916257454da2",
     "166180979944d69ef0",
     "6cb7fb1c-a0db-4ee2-8718-25d62b745ea0",
@@ -878,7 +887,6 @@
     "main",
     "product-recommendations",
     "1661808305ffc5a21a",
-    "1661808968f90ffkeofkeo",
     "40780aef-8c85-45c9-be55-758eb9e4c474",
     "849d9b06-a903-4ad1-8e91-9e717712b3ce",
     "5ba78ac5-d6d5-427b-9226-b85994865435",
