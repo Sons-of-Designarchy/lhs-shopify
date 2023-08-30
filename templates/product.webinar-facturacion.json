@@ -6,7 +6,7 @@
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-text-1": {
           "type": "text",
           "settings": {
-            "text": "FECHA DEL EVENTO",
+            "text": "JUEVES 7 DE SEPTIEMBRE 2023 7:30 P.M (horario CDMX)",
             "text_style": "body"
           }
         },
@@ -40,13 +40,6 @@
           "settings": {
           }
         },
-        "dd9c79f3-51be-4a85-b251-8a0c8c1dbdef": {
-          "type": "text",
-          "settings": {
-            "text": "Aprenderás a cómo navegar en el portal del SAT, emitir facturas, cancelarlas y corregir algunos errores comunes que suelen suceder en la versión 4.0.",
-            "text_style": "body"
-          }
-        },
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-buy_buttons-1": {
           "type": "buy_buttons",
           "settings": {
@@ -68,7 +61,6 @@
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-price-1",
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-variant_picker-1",
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-quantity_selector-1",
-        "dd9c79f3-51be-4a85-b251-8a0c8c1dbdef",
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-buy_buttons-1",
         "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-share-1"
       ],
@@ -80,11 +72,6 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "1661808968f90ffkeofkeo": {
-      "type": "banner-comunidad",
-      "settings": {
       }
     },
     "166180916257454da2": {
@@ -115,20 +102,115 @@
         "padding_bottom": 16
       }
     },
+    "4b4d2540-8cc7-4bc5-93da-d690d5ba051a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15845408473258__4b4d2540-8cc7-4bc5-93da-d690d5ba051a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "¿Qué aprenderé aquí?",
+            "heading_size": "h1"
+          }
+        },
+        "template--15845408473258__4b4d2540-8cc7-4bc5-93da-d690d5ba051a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cómo navegar en el portal del SAT, emitir facturas, cancelarlas y corregir algunos errores comunes que suelen suceder en la versión 4.0.<\/p>"
+          }
+        },
+        "d9efe38a-2eee-4259-a876-59587bb0acda": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Comprar curso",
+            "button_link": "shopify:\/\/products\/curso-basico",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15845408473258__4b4d2540-8cc7-4bc5-93da-d690d5ba051a-heading-1",
+        "template--15845408473258__4b4d2540-8cc7-4bc5-93da-d690d5ba051a-text-1",
+        "d9efe38a-2eee-4259-a876-59587bb0acda"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "849d9b06-a903-4ad1-8e91-9e717712b3ce": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/temario-1.svg",
+            "title": "Conozcamos la versión 4.0",
+            "text": "<ul><li>¿Cómo configurar mi plataforma de facturación?<\/li><li>Tipos de CFDI disponibles en el SAT.<\/li><li>Dónde revisar mis facturas generales.<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/temario-2.svg",
+            "title": "Facturación",
+            "text": "<ul><li>Guía práctica para realizar una factura al público en general, extranjeros, arrendamiento y prestación de servicios (RESICO y PFE).<\/li><li>Cómo cancelar una factura errónea.<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/temario-3.svg",
+            "title": "Información que cura",
+            "text": "<ul><li>Infracciones y multas relacionadas con el CFDI.<\/li><li>Hacks y Anexo 20.<\/li><li>Resolución de dudas personales.<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-1",
+        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-2",
+        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-3"
+      ],
+      "settings": {
+        "title": "Temario del webinar",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "166180979944d69ef0": {
       "type": "rich-text",
       "blocks": {
         "1661809799a7bd7f34-0": {
           "type": "heading",
           "settings": {
-            "heading": "Pasos básicos para sobrevivir al SAT",
+            "heading": "Dirigido a:",
             "heading_size": "h2"
           }
         },
         "1661809799a7bd7f34-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>El curso ideal para<\/p>"
+            "text": "<p>Dirigido a<\/p>"
           }
         }
       },
@@ -161,7 +243,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-millenials.svg",
             "title": "Recien graduados",
-            "text": "<p>Que acaban de incorporarse a la vida de “adulto” y quieren saber quiúbole con el SAT<\/p>",
+            "text": "<p>Que acaban de incorporarse a la vida de “adulto” y quieren saber quiúbole con el SAT.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -199,51 +281,13 @@
         "padding_bottom": 36
       }
     },
-    "4b4d2540-8cc7-4bc5-93da-d690d5ba051a": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15845408473258__4b4d2540-8cc7-4bc5-93da-d690d5ba051a-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "En este curso aprenderás los conceptos básicos para empezar tu vida fiscal",
-            "heading_size": "h1"
-          }
-        },
-        "template--15845408473258__4b4d2540-8cc7-4bc5-93da-d690d5ba051a-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>* En 8 lecciones rápidas y sencillas de entender<\/p>"
-          }
-        },
-        "d9efe38a-2eee-4259-a876-59587bb0acda": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Comprar curso",
-            "button_link": "shopify:\/\/products\/curso-basico",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "template--15845408473258__4b4d2540-8cc7-4bc5-93da-d690d5ba051a-heading-1",
-        "template--15845408473258__4b4d2540-8cc7-4bc5-93da-d690d5ba051a-text-1",
-        "d9efe38a-2eee-4259-a876-59587bb0acda"
-      ],
-      "settings": {
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1661810356cf2ea8f5": {
       "type": "rich-text",
       "blocks": {
         "1661810356abfba724-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>OBTÉN NUESTRO CURSO: <\/strong>Pasos básicos para sobrevivir al satanás<\/p>"
+            "text": "<p><strong>OBTÉN NUESTRO CURSO: <\/strong>Pasos básicos para sobrevivir al SATanás<\/p>"
           }
         },
         "1661810356abfba724-0": {
@@ -331,6 +375,11 @@
         "enable_video_looping": false,
         "padding_top": 60,
         "padding_bottom": 60
+      }
+    },
+    "1661808968f90ffkeofkeo": {
+      "type": "banner-comunidad",
+      "settings": {
       }
     },
     "product-recommendations": {
@@ -524,69 +573,13 @@
         "padding_bottom": 64
       }
     },
-    "849d9b06-a903-4ad1-8e91-9e717712b3ce": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/temario-1.svg",
-            "title": "Entendamos un poco al SAT",
-            "text": "<ul><li>¿Cómo funciona?<\/li><li>¿Qué necesito para incorporarme?<\/li><\/ul>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/temario-2.svg",
-            "title": "Obligaciones ante el SAT",
-            "text": "<ul><li>¿Qué son los regímenes?<\/li><li>¿Cómo elegir mi régimen?<\/li><li>¿Qué son los impuestos?<\/li><\/ul>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/temario-3.svg",
-            "title": "Información que cura",
-            "text": "<ul><li>Deducciones: Cómo usarlas a tu favor<\/li><li>Tips para hacer todo más sencillo<\/li><\/ul>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-1",
-        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-2",
-        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-3"
-      ],
-      "settings": {
-        "title": "Temario del curso",
-        "heading_size": "h2",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "5ba78ac5-d6d5-427b-9226-b85994865435": {
       "type": "rich-text",
       "blocks": {
         "template--15845408473258__5ba78ac5-d6d5-427b-9226-b85994865435-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Aprende a sobrevivir al SATanás",
+            "heading": "Webinar: Aprende a facturar y declarar en el portal del SAT",
             "heading_size": "h0"
           }
         },
@@ -878,17 +871,17 @@
   },
   "order": [
     "f9c03ca0-0b41-4c3c-aac6-c313cc969361",
-    "1661808968f90ffkeofkeo",
     "166180916257454da2",
+    "4b4d2540-8cc7-4bc5-93da-d690d5ba051a",
+    "849d9b06-a903-4ad1-8e91-9e717712b3ce",
     "166180979944d69ef0",
     "6cb7fb1c-a0db-4ee2-8718-25d62b745ea0",
-    "4b4d2540-8cc7-4bc5-93da-d690d5ba051a",
     "1661810356cf2ea8f5",
     "main",
+    "1661808968f90ffkeofkeo",
     "product-recommendations",
     "1661808305ffc5a21a",
     "40780aef-8c85-45c9-be55-758eb9e4c474",
-    "849d9b06-a903-4ad1-8e91-9e717712b3ce",
     "5ba78ac5-d6d5-427b-9226-b85994865435",
     "8d5a1c4c-8929-4c1b-b065-73522607f463",
     "897167f0-8360-4b95-b323-cfcea10aaaaa",
