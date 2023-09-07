@@ -37,11 +37,6 @@
         "padding_bottom": 80
       }
     },
-    "1661808968f90ffkeofkeo": {
-      "type": "banner-comunidad",
-      "settings": {
-      }
-    },
     "166180916257454da2": {
       "type": "rich-text",
       "blocks": {
@@ -366,6 +361,11 @@
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "1661808968f90ffkeofkeo": {
+      "type": "banner-comunidad",
+      "settings": {
       }
     },
     "40780aef-8c85-45c9-be55-758eb9e4c474": {
@@ -832,7 +832,6 @@
     }
   },
   "order": [
-    "1661808968f90ffkeofkeo",
     "1661808968f90ffc1f",
     "166180916257454da2",
     "166180979944d69ef0",
@@ -842,6 +841,7 @@
     "main",
     "product-recommendations",
     "1661808305ffc5a21a",
+    "1661808968f90ffkeofkeo",
     "40780aef-8c85-45c9-be55-758eb9e4c474",
     "849d9b06-a903-4ad1-8e91-9e717712b3ce",
     "5ba78ac5-d6d5-427b-9226-b85994865435",
