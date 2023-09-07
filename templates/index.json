@@ -86,7 +86,7 @@
       "settings": {
         "title": "¿Necesitas asesoría personalizada?",
         "heading_size": "h1",
-        "description": "<p>Brindamos asesorías uno a uno con uno de nuestros asesores por Zoom,  resuelve todas tus dudas y regulariza tu situación fiscal<\/p>",
+        "description": "<p>Brindamos asesorías uno a uno con uno de nuestros asesores por videollamada (Google Meet), resuelve todas tus dudas y regulariza tu situación fiscal<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "asesorias",
@@ -300,7 +300,7 @@
       "type": "apps",
       "blocks": {
         "e3bbeaa3-609b-4b9b-a392-2e1eb4590523": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 20,
             "feed_width": 100,
