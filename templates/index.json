@@ -247,7 +247,7 @@
         ".article-card__excerpt {font-size: 16px;}"
       ],
       "settings": {
-        "heading": "Aprende más sobre el Sat en nuestro blog",
+        "heading": "Aprende más sobre el SAT en nuestro blog",
         "heading_size": "h2",
         "blog": "blog",
         "post_limit": 3,
