@@ -37,6 +37,11 @@
         "padding_bottom": 80
       }
     },
+    "1661808968f90ffkeofkeo": {
+      "type": "banner-comunidad",
+      "settings": {
+      }
+    },
     "166180916257454da2": {
       "type": "rich-text",
       "blocks": {
@@ -673,6 +678,7 @@
         }
       },
       "block_order": [
+        "1661808968f90ffkeofkeo",
         "template--15845408473258__8d5a1c4c-8929-4c1b-b065-73522607f463-column-1",
         "2bd54b94-6c0e-4157-a38c-d639f654c794",
         "4aa1975e-bf88-4021-93de-1b50e3395754",
