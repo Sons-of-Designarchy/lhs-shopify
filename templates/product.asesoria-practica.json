@@ -148,6 +148,11 @@
             "text": "Size chart",
             "page": ""
           }
+        },
+        "a1cb4879-b435-49c7-ba07-e76c8e058a98": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -161,7 +166,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "popup"
+        "popup",
+        "a1cb4879-b435-49c7-ba07-e76c8e058a98"
       ],
       "disabled": true,
       "settings": {
