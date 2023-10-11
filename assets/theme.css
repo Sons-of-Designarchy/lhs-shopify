@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @font-face {
   font-family: "Meek Display";
-  src: url("http://danielpliego.com/lahorasat/fonts/Meek_Display_Medium.ttf") 
+  src: url("https://cdn.shopify.com/s/files/1/0625/4700/1514/files/Meek_Display_Medium.ttf?v=1697030520") 
       format("truetype");
 }
 
@@ -63,7 +63,7 @@ transform: none !important;
 }
 
 .color-inverse {
-  background-image: url('http://danielpliego.com/lahorasat/images/textura-purple.png')!important;
+  background-image: url('https://cdn.shopify.com/s/files/1/0625/4700/1514/files/textura-purple_f2b1a812-2a43-4240-ade0-54ce11489870.png?v=1697030470')!important;
 }
 
 .row {
@@ -85,7 +85,7 @@ transform: none !important;
 .section-hero {
   background: #e9e4f5;
   padding: 5rem 0;
-    background-image: url('http://danielpliego.com/lahorasat/images/textura-green.png')!important;
+    background-image: url('https://cdn.shopify.com/s/files/1/0625/4700/1514/files/textura-green_ac72fd9b-7e3f-4396-bf89-4a9b9c263695.png?v=1697030443')!important;
 }
 
 .section-template--15693383696554__16565315463aa91188-padding .multicolumn-card-spacing {
