@@ -148,8 +148,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/temario-1.svg",
-            "title": "Conozcamos la versión 4.0",
-            "text": "<ul><li>¿Cómo configurar mi plataforma de facturación?<\/li><li>Tipos de CFDI disponibles en el SAT.<\/li><li>Dónde revisar mis facturas generales.<\/li><\/ul>",
+            "title": "Conceptos básicos",
+            "text": "<p>● Glosario básico.<\/p><p>● Conociendo al SAT desde cero.<\/p><p>● Baby steps para darse de alta de forma correcta.<\/p><p>● Tus obligaciones ante el SAT.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -158,18 +158,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/temario-2.svg",
-            "title": "Facturación",
-            "text": "<ul><li>Guía práctica para realizar una factura al público en general, extranjeros, arrendamiento y prestación de servicios (RESICO y PFE).<\/li><li>Cómo cancelar una factura errónea.<\/li><\/ul>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/temario-3.svg",
-            "title": "Información que cura",
-            "text": "<ul><li>Infracciones y multas relacionadas con el CFDI.<\/li><li>Hacks y Anexo 20.<\/li><li>Resolución de dudas personales.<\/li><\/ul>",
+            "title": "Preparate para darte de alta",
+            "text": "<p>● Documentos importantes del SAT<\/p><p>● Consecuencias de no atender tus obligaciones.<\/p><p>● Tips para hacer todo un poco más sencillo.<\/p><p>● Panel de preguntas y respuestas.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -177,8 +167,7 @@
       },
       "block_order": [
         "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-1",
-        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-2",
-        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-3"
+        "template--15845408473258__849d9b06-a903-4ad1-8e91-9e717712b3ce-column-2"
       ],
       "settings": {
         "title": "Temario del webinar",
@@ -233,8 +222,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-freelancers.svg",
-            "title": "Freelancers",
-            "text": "<p>Que tienen que dar factura a sus clientes y quieren saber cómo hacerlo y usar esto a su favor.<\/p>",
+            "title": "Huevito Kinder",
+            "text": "<p>● Quienes no saben nada del SAT y quieren dejar de tenerle miedo.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -243,8 +232,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-millenials.svg",
-            "title": "Recién graduados",
-            "text": "<p>Que acaban de incorporarse a la vida de “adulto” y quieren saber quiúbole con el SAT.<\/p>",
+            "title": "Nuevos empleados",
+            "text": "<p>● A lxs que acaban de entrar a trabajar y necesitan darse de alta.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -253,8 +242,18 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-publico.svg",
-            "title": "Emprendedores",
-            "text": "<p>Que quiere aprender cómo sobrevivir al SAT de manera sencilla.<\/p>",
+            "title": "Nuevos contribuyentes",
+            "text": "<p>● A quienes se acaban de incorporar al SAT y no saben cuál es el siguiente paso.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "eb112502-a000-4a52-9359-5a44f87b4f63": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dirigido-publico.svg",
+            "title": "Asalariadxs",
+            "text": "<p>● Asalariadxs que quieren aprender a sobrevivir al SATanas.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -263,14 +262,15 @@
       "block_order": [
         "template--15845408473258__6cb7fb1c-a0db-4ee2-8718-25d62b745ea0-column-1",
         "template--15845408473258__6cb7fb1c-a0db-4ee2-8718-25d62b745ea0-column-2",
-        "template--15845408473258__6cb7fb1c-a0db-4ee2-8718-25d62b745ea0-column-3"
+        "template--15845408473258__6cb7fb1c-a0db-4ee2-8718-25d62b745ea0-column-3",
+        "eb112502-a000-4a52-9359-5a44f87b4f63"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
