@@ -209,9 +209,9 @@
         "1661809799a7bd7f34-1"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 24,
         "padding_bottom": 32
       }
     },
@@ -275,39 +275,11 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "1661810356cf2ea8f5": {
-      "type": "rich-text",
-      "blocks": {
-        "1661810356abfba724-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>OBTÉN NUESTRO CURSO: <\/strong>Pasos básicos para sobrevivir al SATanás<\/p>"
-          }
-        },
-        "1661810356abfba724-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Con un 50% de descuento",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "1661810356abfba724-1",
-        "1661810356abfba724-0"
-      ],
-      "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "main": {
@@ -877,7 +849,6 @@
     "849d9b06-a903-4ad1-8e91-9e717712b3ce",
     "166180979944d69ef0",
     "6cb7fb1c-a0db-4ee2-8718-25d62b745ea0",
-    "1661810356cf2ea8f5",
     "main",
     "1661808968f90ffkeofkeo",
     "product-recommendations",
