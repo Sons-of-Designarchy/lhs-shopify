@@ -350,6 +350,69 @@
         "padding_bottom": 60
       }
     },
+    "c9666f9f-49c4-45e9-9eaf-5ead54e65fec": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Acceso al taller.",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-2": {
+          "type": "column",
+          "settings": {
+            "title": " Material extra de apoyo.",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Grabación del curso.",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "791c34c9-a575-498a-bfb8-47ac6566b54f": {
+          "type": "column",
+          "settings": {
+            "title": " Paz mental para dormir por las noches.",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-1",
+        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-2",
+        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-3",
+        "791c34c9-a575-498a-bfb8-47ac6566b54f"
+      ],
+      "settings": {
+        "title": "Qué incluye:",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    },
     "1661808968f90ffkeofkeo": {
       "type": "banner-comunidad",
       "settings": {
@@ -840,69 +903,6 @@
       "settings": {
         "shake_type": "jiggle"
       }
-    },
-    "c9666f9f-49c4-45e9-9eaf-5ead54e65fec": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Acceso al taller.",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-2": {
-          "type": "column",
-          "settings": {
-            "title": " Material extra de apoyo.",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Grabación del curso.",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "791c34c9-a575-498a-bfb8-47ac6566b54f": {
-          "type": "column",
-          "settings": {
-            "title": " Paz mental para dormir por las noches.",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-1",
-        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-2",
-        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-3",
-        "791c34c9-a575-498a-bfb8-47ac6566b54f"
-      ],
-      "settings": {
-        "title": "Qué incluye:",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 56,
-        "padding_bottom": 56
-      }
     }
   },
   "order": [
@@ -913,6 +913,7 @@
     "166180979944d69ef0",
     "6cb7fb1c-a0db-4ee2-8718-25d62b745ea0",
     "main",
+    "c9666f9f-49c4-45e9-9eaf-5ead54e65fec",
     "1661808968f90ffkeofkeo",
     "product-recommendations",
     "1661808305ffc5a21a",
@@ -922,7 +923,6 @@
     "897167f0-8360-4b95-b323-cfcea10aaaaa",
     "3df7d726-ff3e-46bb-a97d-31386c071ea9",
     "39282e7d-5d5c-48ac-8175-59cf86b0043b",
-    "f1c312b8-10de-458b-b7a8-6d42ca5b16e0",
-    "c9666f9f-49c4-45e9-9eaf-5ead54e65fec"
+    "f1c312b8-10de-458b-b7a8-6d42ca5b16e0"
   ]
 }
