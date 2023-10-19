@@ -8,87 +8,6 @@
         "padding_bottom": 0
       }
     },
-    "11288a86-7b4e-4263-9b7f-78ce21c85db5": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Aprende lo básico sobre el SAT.",
-        "heading_size": "h1",
-        "description": "<p>Toma nuestros cursos en linea con más de 1,000 graduados que ya aprendieron a dominar al monstruo del SAT.<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "cursos",
-        "products_to_show": 2,
-        "columns_desktop": 2,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "inverse",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "e549709c-af24-45b0-b68b-58a9799e7ae7": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Aprende lo básico sobre el SAT.",
-        "heading_size": "h1",
-        "description": "<p>Toma nuestros cursos en linea con más de 1,000 graduados que ya aprendieron a dominar al monstruo del SAT.<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "cursos",
-        "products_to_show": 2,
-        "columns_desktop": 2,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "inverse",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "51e948d1-460c-49db-b1c2-b46e378cf2ac": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Aprende lo básico sobre el SAT.",
-        "heading_size": "h1",
-        "description": "<p>Toma nuestros cursos en linea con más de 1,000 graduados que ya aprendieron a dominar al monstruo del SAT.<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "cursos",
-        "products_to_show": 2,
-        "columns_desktop": 2,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "inverse",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
     "newsletter": {
       "type": "newsletter",
       "blocks": {
@@ -278,9 +197,6 @@
   },
   "order": [
     "main",
-    "11288a86-7b4e-4263-9b7f-78ce21c85db5",
-    "e549709c-af24-45b0-b68b-58a9799e7ae7",
-    "51e948d1-460c-49db-b1c2-b46e378cf2ac",
     "newsletter",
     "aeb2179e-0c36-4455-8a06-951dd399d6a7",
     "9c32e0c1-47ea-4b42-a61e-ffa403d6e90d"
