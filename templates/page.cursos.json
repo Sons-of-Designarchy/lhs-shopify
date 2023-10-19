@@ -1,5 +1,32 @@
 {
   "sections": {
+    "deb29faf-d16e-444b-af13-fa440513cbc8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Aprende lo básico sobre el SAT.",
+        "heading_size": "h1",
+        "description": "<p>Toma nuestros cursos en linea con más de 1,000 graduados que ya aprendieron a dominar al monstruo del SAT.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "cursos",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "inverse",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -196,6 +223,7 @@
     }
   },
   "order": [
+    "deb29faf-d16e-444b-af13-fa440513cbc8",
     "main",
     "newsletter",
     "aeb2179e-0c36-4455-8a06-951dd399d6a7",
