@@ -21,9 +21,12 @@
       {%- case block.type -%}
         {%- when '@app' -%}
           {% render block %}
+        <div>
+          
+        </div>
         {%- when 'heading' -%}
           <h3 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h3>
-          <img src="https://cdn.shopify.com/s/files/1/0625/4700/1514/files/mini-guia_e7392d1a-b2f5-48cc-aa36-cf251164b5ed.png?v=1697844959" style="max-width: 500px; margin: 1rem auto;" />
+          <img src="https://cdn.shopify.com/s/files/1/0625/4700/1514/files/mini-guia_e7392d1a-b2f5-48cc-aa36-cf251164b5ed.png?v=1697844959" style=" width: 400px; max-width: 100%; margin: 1rem auto;" />
         {%- when 'paragraph' -%}
           <div class="newsletter__subheading rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
         {%- when 'email_form' -%}
