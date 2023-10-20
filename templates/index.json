@@ -112,7 +112,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "¿Necesitas asesoría personalizada?",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "<p>Brindamos asesorías uno a uno con uno de nuestros asesores por videollamada (Google Meet), resuelve todas tus dudas y regulariza tu situación fiscal<\/p>",
         "show_description": false,
         "description_style": "body",
