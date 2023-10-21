@@ -88,6 +88,16 @@ transform: none !important;
     background-image: url('https://cdn.shopify.com/s/files/1/0625/4700/1514/files/textura-green_ac72fd9b-7e3f-4396-bf89-4a9b9c263695.png?v=1697030443')!important;
 }
 
+@media (max-width: 768px) {
+  .section-hero {
+    padding: 1rem 0;
+  }
+
+  .container {
+    padding: 0 2rem;
+  }
+}
+
 .section-template--15693383696554__16565315463aa91188-padding .multicolumn-card-spacing {
   padding: 0;
   margin: 0;
