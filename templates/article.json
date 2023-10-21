@@ -30,68 +30,6 @@
       "settings": {
       }
     },
-    "0076a93f-47f9-4099-bc5f-9260e7d35710": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "¿Necesitas asesoría personalizada?",
-        "heading_size": "h1",
-        "description": "<p>Tenemos dos modelos, si tienes dudas de cuál elegir, <a href=\"https:\/\/wa.me\/525540062850\">mándanos un Whatsapp<\/a><\/p><ul><li><\/li><\/ul>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "asesorias",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "accent-2",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 64,
-        "padding_bottom": 64
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Stay in the know",
-            "heading_size": "h2"
-          }
-        },
-        "email-form": {
-          "type": "email_form",
-          "settings": {
-          }
-        },
-        "paragraph": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Follow us on social media<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "email-form",
-        "paragraph"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 44,
-        "padding_bottom": 8
-      }
-    },
     "6dc26d3a-18b6-49fd-80bb-e2e0d1c2867c": {
       "type": "featured-blog",
       "settings": {
@@ -137,18 +75,80 @@
         "template--16188553265322__74ae1b0b-e136-4f9d-ac7b-b97a308f28fd-email_form-1"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "0076a93f-47f9-4099-bc5f-9260e7d35710": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "¿Necesitas asesoría personalizada?",
+        "heading_size": "h1",
+        "description": "<p>Tenemos dos modelos, si tienes dudas de cuál elegir, <a href=\"https:\/\/wa.me\/525540062850\">mándanos un Whatsapp<\/a><\/p><ul><li><\/li><\/ul>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "asesorias",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stay in the know",
+            "heading_size": "h2"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Follow us on social media<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "email-form",
+        "paragraph"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 44,
+        "padding_bottom": 8
       }
     }
   },
   "order": [
     "main",
-    "0076a93f-47f9-4099-bc5f-9260e7d35710",
-    "newsletter",
     "6dc26d3a-18b6-49fd-80bb-e2e0d1c2867c",
-    "74ae1b0b-e136-4f9d-ac7b-b97a308f28fd"
+    "74ae1b0b-e136-4f9d-ac7b-b97a308f28fd",
+    "0076a93f-47f9-4099-bc5f-9260e7d35710",
+    "newsletter"
   ]
 }
