@@ -609,44 +609,6 @@
         "padding_bottom": 64
       }
     },
-    "5ba78ac5-d6d5-427b-9226-b85994865435": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15845408473258__5ba78ac5-d6d5-427b-9226-b85994865435-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Webinar: Aprende a facturar y declarar en el portal del SAT",
-            "heading_size": "h0"
-          }
-        },
-        "71af330a-5f6f-46a5-9759-83119dffc029": {
-          "type": "text",
-          "settings": {
-            "text": "<p><\/p><p><\/p>"
-          }
-        },
-        "template--15845408473258__5ba78ac5-d6d5-427b-9226-b85994865435-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Comprar curso",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15845408473258__5ba78ac5-d6d5-427b-9226-b85994865435-heading-1",
-        "71af330a-5f6f-46a5-9759-83119dffc029",
-        "template--15845408473258__5ba78ac5-d6d5-427b-9226-b85994865435-button-1"
-      ],
-      "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "padding_top": 68,
-        "padding_bottom": 64
-      }
-    },
     "8d5a1c4c-8929-4c1b-b065-73522607f463": {
       "type": "multicolumn",
       "blocks": {
@@ -918,7 +880,6 @@
     "product-recommendations",
     "1661808305ffc5a21a",
     "40780aef-8c85-45c9-be55-758eb9e4c474",
-    "5ba78ac5-d6d5-427b-9226-b85994865435",
     "8d5a1c4c-8929-4c1b-b065-73522607f463",
     "897167f0-8360-4b95-b323-cfcea10aaaaa",
     "3df7d726-ff3e-46bb-a97d-31386c071ea9",
