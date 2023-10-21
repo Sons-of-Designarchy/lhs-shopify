@@ -478,6 +478,33 @@
         "padding_top": 44,
         "padding_bottom": 8
       }
+    },
+    "246972e2-75e9-429c-ac07-4035266bec75": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16188553298090__246972e2-75e9-429c-ac07-4035266bec75-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Suscríbete al newsletter y recibe gratis la mini guía del Portal del Sat",
+            "heading_size": "h1"
+          }
+        },
+        "template--16188553298090__246972e2-75e9-429c-ac07-4035266bec75-email_form-1": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16188553298090__246972e2-75e9-429c-ac07-4035266bec75-heading-1",
+        "template--16188553298090__246972e2-75e9-429c-ac07-4035266bec75-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -486,6 +513,7 @@
     "16565315463aa91188",
     "c525dc44-3506-47d1-9a8d-c99304e27750",
     "386826d1-01cc-4544-837d-07e2341191e8",
-    "newsletter"
+    "newsletter",
+    "246972e2-75e9-429c-ac07-4035266bec75"
   ]
 }
