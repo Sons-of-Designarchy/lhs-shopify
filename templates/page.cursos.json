@@ -2,6 +2,7 @@
   "sections": {
     "dddfc3f2-c6e0-4458-90fd-c5d7d06d2844": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "¡Únete a nuestros Webinars en vivo!",
         "heading_size": "h1",
