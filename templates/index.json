@@ -11,6 +11,7 @@
     },
     "1e5b8377-e78b-484f-9ff0-989d8a5a4d24": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "¡Únete a nuestros Webinars en vivo!",
         "heading_size": "h1",
@@ -329,8 +330,6 @@
         "e3bbeaa3-609b-4b9b-a392-2e1eb4590523": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
             "html_area": ""
           }
         }
