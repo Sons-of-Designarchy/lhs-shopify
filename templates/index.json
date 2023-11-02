@@ -378,7 +378,7 @@
         "padding_bottom": 80
       }
     },
-    "1661808968f90ffkeofkeo": {
+    "resenas": {
       "type": "resenas",
       "settings": {
       }
@@ -396,6 +396,6 @@
     "1666038338bdc9d187",
     "95deff6f-69cc-4f35-9054-020bd0303a52",
     "newsletter",
-    "1661808968f90ffkeofkeo"
+    "resenas"
   ]
 }
