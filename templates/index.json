@@ -377,11 +377,6 @@
         "padding_top": 80,
         "padding_bottom": 80
       }
-    },
-    "resenas": {
-      "type": "resenas",
-      "settings": {
-      }
     }
   },
   "order": [
@@ -395,7 +390,6 @@
     "58b3d2f9-2073-4a73-ad37-c7c280b00259",
     "1666038338bdc9d187",
     "95deff6f-69cc-4f35-9054-020bd0303a52",
-    "newsletter",
-    "resenas"
+    "newsletter"
   ]
 }

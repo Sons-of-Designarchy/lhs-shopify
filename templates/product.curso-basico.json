@@ -829,6 +829,11 @@
       "settings": {
         "shake_type": "jiggle"
       }
+    },
+    "resenas": {
+      "type": "resenas",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -849,6 +854,7 @@
     "897167f0-8360-4b95-b323-cfcea10aaaaa",
     "3df7d726-ff3e-46bb-a97d-31386c071ea9",
     "39282e7d-5d5c-48ac-8175-59cf86b0043b",
-    "f1c312b8-10de-458b-b7a8-6d42ca5b16e0"
+    "f1c312b8-10de-458b-b7a8-6d42ca5b16e0",
+    "resenas"
   ]
 }
