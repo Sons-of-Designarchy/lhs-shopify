@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carousel</title>
+  <style>
+    .carousel {
+      width: 80%;
+      margin: 0 auto;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .carousel-container {
+      display: flex;
+      transition: transform 0.5s;
+      max-width: 100%;
+    }
+
+    .slide {
+      width: 100%;
+      flex-shrink: 0;
+      flex-grow: 0;
+      text-align: center;
+      display: flex;
+    }
+
+    .review-col {
+      flex: 1;
+      padding: 1rem;
+    }
+
+    .review-content {
+      border: 1px solid purple;
+      padding: 1rem;
+    }
+
+    button {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    .prev, .next {
+      background: #fff;
+      border-radius: 2rem;
+      border: 0;
+      box-shadow: 0 30px 30px rgba(0,0,0,.05);
+      width: 2rem;
+      height: 2rem;
+      display: block;
+      font-weight: bold;
+      color: purple;
+      cursor: pointer;
+    }
+
+    .prev {
+      left: 10px;
+    }
+
+    .next {
+      right: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="carousel color-background-1 gradient">
+    <div class="carousel-container">
+      <div class="slide">
+        <div class="review-col">
+          <div class="review-content">
+            La hora SAT es un gran servicio. Desde el primer contacto con la página, pasando por el pago y la asesoría,
+            todo cumple su función. Muchas gracias por todo.
+          </div>
+        </div>
+
+        <div class="review-col">
+          <div class="review-content">
+            Amo su paciencia y su don por ayudar y enseñarnos a no morir con el SAT. Creo que si resolví todas mis dudas
+            si
+            alguna me queda pendiente es porque huyo de mi cabeza :) En verdad muchas gracias por ayudarme a dar de
+            nuevo
+            los pasitos básicos para estar al 100 con el SAT.
+          </div>
+        </div>
+
+        <div class="review-col">
+          <div class="review-content">
+            Muy buena la asesoría, Miranda resolvió todas nuestras dudas, de manera súper didáctica y amable, algo que
+            valoramos mucho porque no teníamos nada de idea de esto! Gracias!
+          </div>
+        </div>
+
+        <div class="review-col">
+          <div class="review-content">
+            "Una excelente atención, resolvió mis dudas amablemente, me brindó la orientación necesaria para conocer el
+            proceso
+            y los pasos a seguir. Me sentí en total confianza."
+          </div>
+        </div>
+      </div>
+      <div class="slide">
+
+
+        <div class="review-col">
+          <div class="review-content">
+            "Todo estuvo excelente, un tema tan difícil lo hacen muy fácil para uno como simple mortal. 100/100"
+          </div>
+        </div>
+
+        <div class="review-col">
+          <div class="review-content">
+            "Todo estuvo perfecto, pq antes de la asesoria, me preguntaron mis dudas especificas y sobre eso nos fuimos,
+            así aprovechamos la hora de asesoria"
+          </div>
+        </div>
+
+        <div class="review-col">
+          <div class="review-content">
+            "Estuvo muy bien! Me ayudaron muchísimo sobre dudas que casi nadie me había resuelto, las recomendaré 😁"
+          </div>
+        </div>
+
+        <div class="review-col">
+          <div class="review-content">
+            "Tuve mucha luz, estaba muy perdida pero justo después de platicar con ustedes hicieron sentido las cosas
+            que me estaban pidiendo. Ya me asusta menos la responsabilidad de declarar mensualmente."
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <button class="prev"><</button>
+    <button class="next">></button>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      const carouselContainer = $('.carousel-container');
+      const slideWidth = $('.slide').outerWidth();
+      let currentIndex = 0;
+      const totalSlides = $('.slide').length;
+
+      function moveCarousel() {
+        const newPosition = -currentIndex * slideWidth;
+        carouselContainer.css('transform', `translateX(${newPosition}px)`);
+      }
+
+      $('.next').click(function () {
+        currentIndex = (currentIndex + 1) % totalSlides;
+        moveCarousel();
+      });
+
+      $('.prev').click(function () {
+        currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+        moveCarousel();
+      });
+    });
+  </script>
+</body>
+
+</html>

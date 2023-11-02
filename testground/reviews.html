@@ -1,0 +1,154 @@
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  $(document).ready(function () {
+    var slideWidth = $(".slide").outerWidth();
+    var sliderContainer = $(".slider-container");
+    var slides = $(".slide");
+    var currentIndex = 0;
+    var totalSlides = slides.length;
+
+    // Set the width of the container to fit all slides
+    sliderContainer.css("width", totalSlides * slideWidth);
+
+    // Move to the next slide
+    function nextSlide() {
+      if (currentIndex < totalSlides - 1) {
+        currentIndex++;
+      } else {
+        currentIndex = 0;
+      }
+      moveSlider();
+    }
+
+    // Move to the previous slide
+    function prevSlide() {
+      if (currentIndex > 0) {
+        currentIndex--;
+      } else {
+        currentIndex = totalSlides - 1;
+      }
+      moveSlider();
+    }
+
+    // Function to update the position of the slider
+    function moveSlider() {
+      var newPosition = -currentIndex * slideWidth;
+      sliderContainer.animate({ left: newPosition }, 500);
+    }
+
+    // Add click event handlers to the next and previous buttons
+    $(".next").click(nextSlide);
+    $(".prev").click(prevSlide);
+  });
+</script>
+
+<style type="text/css">
+  .slider {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .slider-container {
+    transition: transform 0.5s;
+    max-width: 1024px;
+    margin: 0 auto;
+  }
+
+  .slide {
+    background: #fff;
+    border: 1px solid purple;
+    color: purple;
+  }
+
+  .slide-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 100%;
+    gap: 1rem;
+  }
+
+  .review-col {
+    border: 1px solid purple;
+    padding: 1rem;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .prev {
+    left: 10px;
+  }
+
+  .next {
+    right: 10px;
+  }
+</style>
+
+
+<div class="slider">
+  <div class="slider-container">
+    <div class="slide">
+      <div class="review-col">
+        La hora SAT es un gran servicio. Desde el primer contacto con la página, pasando por el pago y la asesoría,
+        todo cumple su función. Muchas gracias por todo.
+      </div>
+
+      <div class="review-col">
+        Amo su paciencia y su don por ayudar y enseñarnos a no morir con el SAT. Creo que si resolví todas mis dudas
+        si
+        alguna me queda pendiente es porque huyo de mi cabeza :) En verdad muchas gracias por ayudarme a dar de nuevo
+        los pasitos básicos para estar al 100 con el SAT.
+      </div>
+
+      <div class="review-col">
+        Muy buena la asesoría, Miranda resolvió todas nuestras dudas, de manera súper didáctica y amable, algo que
+        valoramos mucho porque no teníamos nada de idea de esto! Gracias!
+      </div>
+
+      <div class="review-col">
+        "Una excelente atención, resolvió mis dudas amablemente, me brindó la orientación necesaria para conocer el
+        proceso
+        y los pasos a seguir. Me sentí en total confianza."
+      </div>
+    </div>
+    <div class="slide">
+      <div class="review-col">
+        "Todo estuvo excelente, un tema tan difícil lo hacen muy fácil para uno como simple mortal. 100/100"
+      </div>
+
+      <div class="review-col">
+        "Todo estuvo perfecto, pq antes de la asesoria, me preguntaron mis dudas especificas y sobre eso nos fuimos,
+        asi
+        aprovechamos la hora de asesoria"
+      </div>
+
+      <div class="review-col">
+        "Estuvo muy bien! Me ayudaron muchísimo sobre dudas que casi nadie me había resuelto, las recomendaré 😁"
+      </div>
+
+      <div class="review-col">
+        "Tuve mucha luz, estaba muy perdida pero justo después de platicar con ustedes hicieron sentido las cosas que
+        me
+        estaban pidiendo. Ya me asusta menos la responsabilidad de declarar mensualmente."
+      </div>
+
+
+    </div>
+  </div>
+  <button class="prev">Previous</button>
+  <button class="next">Next</button>
+</div>
+
+</body>
+
+</html>

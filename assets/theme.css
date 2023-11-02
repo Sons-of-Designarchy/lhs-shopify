@@ -154,6 +154,56 @@ transform: none !important;
 }
 }
 
+/* Reviews */
+
+.review-slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  white-space: nowrap;
+}
+
+.review-slide {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.review-box {
+  width: calc(25% - 20px); /* Adjust the width as needed for the desired number of columns */
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-right: 20px;
+  scroll-snap-type: y mandatory;
+  display: flex;
+  flex-direction: column;
+}
+
+.review-content {
+  flex: 1;
+}
+
+.review-author {
+  margin-top: 10px;
+}
+
+.slider-controls {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.prev-slide,
+.next-slide {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+  margin: 0 10px;
+}
+
 
 
 
