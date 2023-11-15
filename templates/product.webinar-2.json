@@ -6,7 +6,7 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text": "{{ product.vendor }}",
+            "text": "JUEVES 26 OCTUBRE \/ 7:30 P.M",
             "text_style": "body"
           }
         },
