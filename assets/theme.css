@@ -213,6 +213,7 @@ transform: none !important;
 .payment-icons li {
   list-style: none;
   padding: 1rem;
+  justify-content: center;
 }
 
 
