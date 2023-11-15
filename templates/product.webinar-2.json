@@ -304,7 +304,7 @@
         "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-1": {
           "type": "column",
           "settings": {
-            "title": "Acceso al taller.",
+            "title": "Laptop",
             "text": "",
             "link_label": "",
             "link": ""
@@ -313,25 +313,7 @@
         "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-2": {
           "type": "column",
           "settings": {
-            "title": " Material extra de apoyo.",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Grabación del curso.",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "791c34c9-a575-498a-bfb8-47ac6566b54f": {
-          "type": "column",
-          "settings": {
-            "title": " Paz mental para dormir por las noches.",
+            "title": "Tomar muchas notas para aprovechar al máximo tu curso.",
             "text": "",
             "link_label": "",
             "link": ""
@@ -340,16 +322,14 @@
       },
       "block_order": [
         "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-1",
-        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-2",
-        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-3",
-        "791c34c9-a575-498a-bfb8-47ac6566b54f"
+        "template--16226964865194__c9666f9f-49c4-45e9-9eaf-5ead54e65fec-column-2"
       ],
       "settings": {
-        "title": "Qué incluye:",
+        "title": "Requisitos",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
