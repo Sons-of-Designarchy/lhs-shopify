@@ -57,25 +57,6 @@
         "padding_bottom": 36
       }
     },
-    "rich-text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Evita que el SAT te multe por no hacer tu declaración.",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": ["heading"],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 64,
-        "padding_bottom": 24
-      }
-    },
     "f9c03ca0-0b41-4c3c-aac6-c313cc969361": {
       "type": "featured-product",
       "blocks": {
