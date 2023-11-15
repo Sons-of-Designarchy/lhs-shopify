@@ -17,7 +17,6 @@
         },
         "product-rating": { "type": "rating", "settings": {} },
         "price": { "type": "price", "settings": {} },
-        "share": { "type": "share", "settings": { "share_label": "Share" } },
         "variant_picker": {
           "type": "variant_picker",
           "settings": { "picker_type": "dropdown" }
@@ -26,11 +25,6 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": { "show_dynamic_checkout": true }
-        },
-        "description": { "type": "description", "settings": {} },
-        "popup": {
-          "type": "popup",
-          "settings": { "text": "Size chart", "page": "" }
         }
       },
       "block_order": [
@@ -39,12 +33,9 @@
         "caption",
         "product-rating",
         "price",
-        "share",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "popup"
       ],
       "settings": {
         "enable_sticky_info": false,
