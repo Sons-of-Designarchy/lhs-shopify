@@ -71,80 +71,6 @@
         "padding_bottom": 36
       }
     },
-    "f9c03ca0-0b41-4c3c-aac6-c313cc969361": {
-      "type": "featured-product",
-      "blocks": {
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "JUEVES 26 OCTUBRE \/ 7:30 P.M",
-            "text_style": "body"
-          }
-        },
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-title-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h2"
-          }
-        },
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-text-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-price-1": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-variant_picker-1": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-quantity_selector-1": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-buy_buttons-1": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-share-1": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-text-1",
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-title-1",
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-text-2",
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-price-1",
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-variant_picker-1",
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-quantity_selector-1",
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-buy_buttons-1",
-        "template--16196915265706__f9c03ca0-0b41-4c3c-aac6-c313cc969361-share-1"
-      ],
-      "settings": {
-        "product": "webinar-basico",
-        "color_scheme": "inverse",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "166180916257454da2": {
       "type": "rich-text",
       "blocks": {
@@ -940,7 +866,6 @@
   },
   "order": [
     "hero",
-    "f9c03ca0-0b41-4c3c-aac6-c313cc969361",
     "166180916257454da2",
     "4b4d2540-8cc7-4bc5-93da-d690d5ba051a",
     "849d9b06-a903-4ad1-8e91-9e717712b3ce",
