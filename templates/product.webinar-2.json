@@ -113,7 +113,7 @@
         "template--15845408473258__4b4d2540-8cc7-4bc5-93da-d690d5ba051a-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>● Qué es el SAT, cómo funciona y porqué existe. <\/p><p>● Cómo incorporarte de forma correcta ante el SAT.<\/p><p>● Primeros pasos para la vida fiscal: tus derechos y obligaciones<\/p><p>● Super tips para llevar tu vida fiscal de manera sencilla.<\/p><p><\/p><p>*Todo esto alineado a las nuevas reformas fiscales del 2023<\/p>"
+            "text": "<p>Herramientas básicas para perderle el miedo al mundo de las finanzas personales, hacks para tomar mejores decisiones en tu economía diaria y así lograr sacar provecho de los productos y servicios financieros sin endeudarte y cuidando tu paz mental.<\/p>"
           }
         },
         "d9efe38a-2eee-4259-a876-59587bb0acda": {
@@ -146,7 +146,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/temario-1.svg",
             "title": "Conceptos básicos",
-            "text": "<p>● Glosario básico.<\/p><p>● Conociendo al SAT desde cero.<\/p><p>● Baby steps para darse de alta de forma correcta.<\/p><p>● Tus obligaciones ante el SAT.<\/p>",
+            "text": "<p>¿Quién es quién en las finanzas? (Conceptos financieros básicos e instituciones)<\/p><p>¿Dónde quedó mi quincena? (Presupuesto, ingresos y gastos)<\/p><p>Abrir sólo en caso de emergencia (Importancia y métodos de ahorro)<\/p><p>El que se arriesga, ¿Qué gana? (Entendiendo los Créditos y deudas)<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -155,8 +155,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/temario-2.svg",
-            "title": "Preparate para darte de alta",
-            "text": "<p>● Documentos importantes del SAT<\/p><p>● Consecuencias de no atender tus obligaciones.<\/p><p>● Tips para hacer todo un poco más sencillo.<\/p><p>● Panel de preguntas y respuestas.<\/p>",
+            "title": "Master de las finanzas",
+            "text": "<p>¡Es mejor tenerlo y no necesitarlo, que necesitarlo y no tenerlo! (Importancia de los seguros y el ahorro para el retiro)<\/p><p>¡Pon a trabajar tu dinero, para que trabajes menos tú! ( Entendiendo la Inversión)<\/p><p>Hacks para manejar el estrés financiero<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -219,8 +219,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-freelancers.svg",
-            "title": "Huevito Kinder",
-            "text": "<p>● Quienes no saben nada del SAT y quieren dejar de tenerle miedo.<\/p>",
+            "title": "Público en general",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -229,8 +229,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-millenials.svg",
-            "title": "Nuevos empleados",
-            "text": "<p>● A lxs que acaban de entrar a trabajar y necesitan darse de alta.<\/p>",
+            "title": "Freelancers",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -239,18 +239,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/dirigido-publico.svg",
-            "title": "Nuevos contribuyentes",
-            "text": "<p>● A quienes se acaban de incorporar al SAT y no saben cuál es el siguiente paso.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "eb112502-a000-4a52-9359-5a44f87b4f63": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/dirigido-publico.svg",
-            "title": "Asalariadxs",
-            "text": "<p>● Asalariadxs que quieren aprender a sobrevivir al SATanas.<\/p>",
+            "title": "Emprendedores",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -259,8 +249,7 @@
       "block_order": [
         "template--15845408473258__6cb7fb1c-a0db-4ee2-8718-25d62b745ea0-column-1",
         "template--15845408473258__6cb7fb1c-a0db-4ee2-8718-25d62b745ea0-column-2",
-        "template--15845408473258__6cb7fb1c-a0db-4ee2-8718-25d62b745ea0-column-3",
-        "eb112502-a000-4a52-9359-5a44f87b4f63"
+        "template--15845408473258__6cb7fb1c-a0db-4ee2-8718-25d62b745ea0-column-3"
       ],
       "settings": {
         "title": "",
@@ -277,6 +266,36 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "7b42351c-7e73-4a52-a755-504bc42313c1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16246483648682__7b42351c-7e73-4a52-a755-504bc42313c1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Que quieren mejorar sus finanzas personales<\/p><p>Que quieren aprender los beneficios de tener orden en las finanzas y sus efectos fiscales.<\/p><p>Que uieren herramientas para planear su futuro financiero.<\/p>"
+          }
+        },
+        "template--16246483648682__7b42351c-7e73-4a52-a755-504bc42313c1-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16246483648682__7b42351c-7e73-4a52-a755-504bc42313c1-text-1",
+        "template--16246483648682__7b42351c-7e73-4a52-a755-504bc42313c1-button-1"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "c9666f9f-49c4-45e9-9eaf-5ead54e65fec": {
@@ -871,6 +890,7 @@
     "849d9b06-a903-4ad1-8e91-9e717712b3ce",
     "166180979944d69ef0",
     "6cb7fb1c-a0db-4ee2-8718-25d62b745ea0",
+    "7b42351c-7e73-4a52-a755-504bc42313c1",
     "c9666f9f-49c4-45e9-9eaf-5ead54e65fec",
     "main",
     "1661808968f90ffkeofkeo",

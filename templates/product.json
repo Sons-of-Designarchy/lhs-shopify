@@ -5,9 +5,16 @@
       "blocks": {
         "vendor": {
           "type": "text",
-          "settings": { "text": "{{ product.vendor }}", "text_style": "body" }
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "body"
+          }
         },
-        "title": { "type": "title", "settings": {} },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
@@ -15,22 +22,50 @@
             "text_style": "subtitle"
           }
         },
-        "product-rating": { "type": "rating", "settings": {} },
-        "price": { "type": "price", "settings": {} },
-        "share": { "type": "share", "settings": { "share_label": "Share" } },
+        "product-rating": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
-          "settings": { "picker_type": "dropdown" }
+          "settings": {
+            "picker_type": "dropdown"
+          }
         },
-        "quantity_selector": { "type": "quantity_selector", "settings": {} },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
-          "settings": { "show_dynamic_checkout": true }
+          "settings": {
+            "show_dynamic_checkout": true
+          }
         },
-        "description": { "type": "description", "settings": {} },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "popup": {
           "type": "popup",
-          "settings": { "text": "Size chart", "page": "" }
+          "settings": {
+            "text": "Size chart",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -68,7 +103,9 @@
           }
         }
       },
-      "block_order": ["heading"],
+      "block_order": [
+        "heading"
+      ],
       "settings": {
         "color_scheme": "inverse",
         "full_width": true,
@@ -83,7 +120,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Resolvemos todas tus dudas</p>",
+            "text": "<p>Resolvemos todas tus dudas<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -92,13 +129,16 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Ingresamos tu solicitud para recuperar el ISR a favor (según sea el caso)</p>",
+            "text": "<p>Ingresamos tu solicitud para recuperar el ISR a favor (según sea el caso)<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
-      "block_order": ["column-1", "column-2"],
+      "block_order": [
+        "column-1",
+        "column-2"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -123,7 +163,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Te enseñamos cómo lidiar con el SAT de forma sencilla</p>",
+            "text": "<p>Te enseñamos cómo lidiar con el SAT de forma sencilla<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -132,13 +172,16 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Aprendes cómo hacer la declaración para el próximo año</p>",
+            "text": "<p>Aprendes cómo hacer la declaración para el próximo año<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
-      "block_order": ["column-2", "column-3"],
+      "block_order": [
+        "column-2",
+        "column-3"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -162,9 +205,9 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/dirigido-millenials.svg",
+            "image": "shopify:\/\/shop_images\/dirigido-millenials.svg",
             "title": "Asalariadxs",
-            "text": "<p>Que quieren obtener su ISR a favor.</p>",
+            "text": "<p>Que quieren obtener su ISR a favor.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -172,15 +215,18 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/dirigido-publico.svg",
+            "image": "shopify:\/\/shop_images\/dirigido-publico.svg",
             "title": "Freelancers",
-            "text": "<p>Que quieren aprender a hacer su declaración anual.</p>",
+            "text": "<p>Que quieren aprender a hacer su declaración anual.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
-      "block_order": ["column-1", "column-2"],
+      "block_order": [
+        "column-1",
+        "column-2"
+      ],
       "settings": {
         "title": "Dirigido a:",
         "heading_size": "h1",
@@ -203,7 +249,10 @@
       "blocks": {
         "template--15693383368874__a90acf9e-d43b-406b-b2ba-04f1af94d30d-heading-1": {
           "type": "heading",
-          "settings": { "heading": "Requisitos", "heading_size": "h1" }
+          "settings": {
+            "heading": "Requisitos",
+            "heading_size": "h1"
+          }
         }
       },
       "block_order": [
@@ -223,7 +272,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Acceso a tu portal del SAT</li><li>E-firma vigente (en ciertos casos)</li><li>Buzón tributario activado</li></ul>",
+            "text": "<ul><li>Acceso a tu portal del SAT<\/li><li>E-firma vigente (en ciertos casos)<\/li><li>Buzón tributario activado<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -232,7 +281,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Relación total de ingresos del 01 al 31 de dic. del 2021</li><li>Computadora y acceso a buen internet</li></ul>",
+            "text": "<ul><li>Relación total de ingresos del 01 al 31 de dic. del 2021<\/li><li>Computadora y acceso a buen internet<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -264,22 +313,47 @@
       "blocks": {
         "column-1": {
           "type": "column",
-          "settings": { "title": "", "text": "", "link_label": "", "link": "" }
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         },
         "column-2": {
           "type": "column",
-          "settings": { "title": "", "text": "", "link_label": "", "link": "" }
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         },
         "column-3": {
           "type": "column",
-          "settings": { "title": "", "text": "", "link_label": "", "link": "" }
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         },
         "column-4": {
           "type": "column",
-          "settings": { "title": "", "text": "", "link_label": "", "link": "" }
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
-      "block_order": ["column-1", "column-2", "column-3", "column-4"],
+      "block_order": [
+        "column-1",
+        "column-2",
+        "column-3",
+        "column-4"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -317,19 +391,32 @@
     },
     "newsletter": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": { "heading": "Stay in the know", "heading_size": "h2" }
+          "settings": {
+            "heading": "Stay in the know",
+            "heading_size": "h2"
+          }
         },
-        "email-form": { "type": "email_form", "settings": {} },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        },
         "paragraph": {
           "type": "paragraph",
-          "settings": { "text": "<p>Follow us on social media</p>" }
+          "settings": {
+            "text": "<p>Follow us on social media<\/p>"
+          }
         }
       },
-      "block_order": ["heading", "email-form", "paragraph"],
+      "block_order": [
+        "heading",
+        "email-form",
+        "paragraph"
+      ],
+      "disabled": true,
       "settings": {
         "color_scheme": "accent-1",
         "full_width": true,
@@ -349,7 +436,9 @@
         },
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-title-1": {
           "type": "title",
-          "settings": { "heading_size": "h1" }
+          "settings": {
+            "heading_size": "h1"
+          }
         },
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-text-2": {
           "type": "text",
@@ -360,23 +449,31 @@
         },
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-price-1": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-variant_picker-1": {
           "type": "variant_picker",
-          "settings": { "picker_type": "button" }
+          "settings": {
+            "picker_type": "button"
+          }
         },
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-quantity_selector-1": {
           "type": "quantity_selector",
-          "settings": {}
+          "settings": {
+          }
         },
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-buy_buttons-1": {
           "type": "buy_buttons",
-          "settings": { "show_dynamic_checkout": true }
+          "settings": {
+            "show_dynamic_checkout": true
+          }
         },
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-share-1": {
           "type": "share",
-          "settings": { "share_label": "Share" }
+          "settings": {
+            "share_label": "Share"
+          }
         }
       },
       "block_order": [
@@ -423,7 +520,7 @@
     "a574933c-26b5-40ec-afdd-9911933ff9a6": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"section section-purple\">\n    <div class=\"container\">\n      <div class=\"row text-center\">\n        <div class=\"col-lg-7 mx-auto\">\n            <img src=\"../img/gallery/acento-verde.svg\" class=\"mb-3 mx-auto\" />\n          <h2 class=\"mb-5 text-w\">\n            Somos la comunidad de educación fiscal más grande\n          </h2>\n        </div>\n      </div>\n      <div class=\"row justify-content-center mb-5\">\n        <div class=\"col-lg-6\">\n          <p class=\"text-light\">\n            Todo lo que necesitas saber sobre el SAT contado por millennials\n            para millennials (o para quien lo necesite) 🤓💸\n          </p>\n          <p class=\"text-light\">\n            Tenemos dos años en el mercado… y en ese tiempo\n            <strong>\n              hemos logrado ayudar a más de 50 mil personas a aprender de\n              forma sencilla\n            </strong>\n            cómo funciona el SAT.\n          </p>\n          <p class=\"text-light\">\n            Nuestros servicios se han vendido en todo México, en USA y hasta en Europa (respaldando a los mexas a la distancia 💪🏼).\n          </p>\n        </div>\n        <div class=\"col-lg-6\">\n          <div class=\"mx-lg-3\">\n            <img\n              src=\"../img/cursos/curso-en-video/foto-about.jpg\"\n              class=\"image-stroke-green img-fluid\"\n            />\n          </div>\n        </div>\n      </div>\n      <div class=\"row pt-3 mx-auto text-center\">\n        <div class=\"col-lg-4 about-number\">\n          <img src=\"../img/cursos/curso-en-video/cora.png\" width=\"70\" />\n          +40k\n          <a href=\"https://www.instagram.com/lahorasat/\" tartget=\"_blank\"><img src=\"../img/cursos/curso-en-video/instagram.svg\" width=\"45\" /></a>\n        </div>\n        <div class=\"col-lg-4 about-number\">\n          <img src=\"../img/cursos/curso-en-video/like.png\" width=\"70\" />\n          2.3k\n          <a href=\"https://www.facebook.com/profile.php?id=100063771390136\" target=\"_blank\"><img src=\"../img/cursos/curso-en-video/facebook.svg\" width=\"45\" /></a>\n        </div>\n        <div class=\"col-lg-4 about-number\">\n          <img src=\"../img/cursos/curso-en-video/cora.png\" width=\"70\" />\n          3k\n          <a href=\"https://twitter.com/LahoraSat/\" target=\"_blank\"><img src=\"../img/cursos/curso-en-video/twitter.svg\" width=\"45\" /></a>\n        </div>\n      </div>\n    </div>\n</div>",
+        "custom_liquid": "<div class=\"section section-purple\">\n    <div class=\"container\">\n      <div class=\"row text-center\">\n        <div class=\"col-lg-7 mx-auto\">\n            <img src=\"..\/img\/gallery\/acento-verde.svg\" class=\"mb-3 mx-auto\" \/>\n          <h2 class=\"mb-5 text-w\">\n            Somos la comunidad de educación fiscal más grande\n          <\/h2>\n        <\/div>\n      <\/div>\n      <div class=\"row justify-content-center mb-5\">\n        <div class=\"col-lg-6\">\n          <p class=\"text-light\">\n            Todo lo que necesitas saber sobre el SAT contado por millennials\n            para millennials (o para quien lo necesite) 🤓💸\n          <\/p>\n          <p class=\"text-light\">\n            Tenemos dos años en el mercado… y en ese tiempo\n            <strong>\n              hemos logrado ayudar a más de 50 mil personas a aprender de\n              forma sencilla\n            <\/strong>\n            cómo funciona el SAT.\n          <\/p>\n          <p class=\"text-light\">\n            Nuestros servicios se han vendido en todo México, en USA y hasta en Europa (respaldando a los mexas a la distancia 💪🏼).\n          <\/p>\n        <\/div>\n        <div class=\"col-lg-6\">\n          <div class=\"mx-lg-3\">\n            <img\n              src=\"..\/img\/cursos\/curso-en-video\/foto-about.jpg\"\n              class=\"image-stroke-green img-fluid\"\n            \/>\n          <\/div>\n        <\/div>\n      <\/div>\n      <div class=\"row pt-3 mx-auto text-center\">\n        <div class=\"col-lg-4 about-number\">\n          <img src=\"..\/img\/cursos\/curso-en-video\/cora.png\" width=\"70\" \/>\n          +40k\n          <a href=\"https:\/\/www.instagram.com\/lahorasat\/\" tartget=\"_blank\"><img src=\"..\/img\/cursos\/curso-en-video\/instagram.svg\" width=\"45\" \/><\/a>\n        <\/div>\n        <div class=\"col-lg-4 about-number\">\n          <img src=\"..\/img\/cursos\/curso-en-video\/like.png\" width=\"70\" \/>\n          2.3k\n          <a href=\"https:\/\/www.facebook.com\/profile.php?id=100063771390136\" target=\"_blank\"><img src=\"..\/img\/cursos\/curso-en-video\/facebook.svg\" width=\"45\" \/><\/a>\n        <\/div>\n        <div class=\"col-lg-4 about-number\">\n          <img src=\"..\/img\/cursos\/curso-en-video\/cora.png\" width=\"70\" \/>\n          3k\n          <a href=\"https:\/\/twitter.com\/LahoraSat\/\" target=\"_blank\"><img src=\"..\/img\/cursos\/curso-en-video\/twitter.svg\" width=\"45\" \/><\/a>\n        <\/div>\n      <\/div>\n    <\/div>\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
