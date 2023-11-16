@@ -6,7 +6,7 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text": "JUEVES 26 OCTUBRE \/ 7:30 P.M",
+            "text": "JUEVES 30 NOVIEMBRE \/ 7:30 P.M",
             "text_style": "body"
           }
         },
@@ -146,7 +146,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/temario-1.svg",
             "title": "Conceptos básicos",
-            "text": "<p>¿Quién es quién en las finanzas? (Conceptos financieros básicos e instituciones)<\/p><p>¿Dónde quedó mi quincena? (Presupuesto, ingresos y gastos)<\/p><p>Abrir sólo en caso de emergencia (Importancia y métodos de ahorro)<\/p><p>El que se arriesga, ¿Qué gana? (Entendiendo los Créditos y deudas)<\/p>",
+            "text": "<ul><li>¿Quién es quién en las finanzas? (Conceptos financieros básicos e instituciones)<br\/><\/li><li>¿Dónde quedó mi quincena?  (Presupuesto, ingresos y gastos)<br\/><\/li><li>Abrir sólo en caso de emergencia (Importancia y métodos de ahorro)<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -156,7 +156,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/temario-2.svg",
             "title": "Master de las finanzas",
-            "text": "<p>¡Es mejor tenerlo y no necesitarlo, que necesitarlo y no tenerlo! (Importancia de los seguros y el ahorro para el retiro)<\/p><p>¡Pon a trabajar tu dinero, para que trabajes menos tú! ( Entendiendo la Inversión)<\/p><p>Hacks para manejar el estrés financiero<\/p>",
+            "text": "<ul><li>El que se arriesga, ¿Qué gana? (Entendiendo los Créditos y deudas)<br\/><\/li><li>¡Es mejor tenerlo y no necesitarlo, que necesitarlo y no tenerlo! (Importancia de los seguros y el ahorro para el retiro)<br\/><\/li><li>¡Pon a trabajar tu dinero, para que trabajes menos tú! ( Entendiendo la Inversión)<br\/><\/li><li>Hacks para manejar el estrés financiero.<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -274,7 +274,7 @@
         "template--16246483648682__7b42351c-7e73-4a52-a755-504bc42313c1-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Que quieren mejorar sus finanzas personales<\/p><p>Que quieren aprender los beneficios de tener orden en las finanzas y sus efectos fiscales.<\/p><p>Que uieren herramientas para planear su futuro financiero.<\/p>"
+            "text": "<p>Que quieren mejorar sus finanzas personales<\/p><p>Que quieren aprender los beneficios de tener orden en las finanzas y sus efectos fiscales.<\/p><p>Que quieren herramientas para planear su futuro financiero.<\/p>"
           }
         },
         "template--16246483648682__7b42351c-7e73-4a52-a755-504bc42313c1-button-1": {
@@ -347,7 +347,7 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text": "JUEVES 26 OCTUBRE \/ 7:30 P.M",
+            "text": "JUEVES 30 NOVIEMBRE \/ 7:30 P.M",
             "text_style": "body"
           }
         },
