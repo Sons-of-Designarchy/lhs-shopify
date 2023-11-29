@@ -2872,7 +2872,7 @@ details-disclosure > details {
 
 @media (max-width: 780px) {
 .blog-articles {
-  display: flex;
+  display: flex!important;
   flex-direction: column;
 }
 }
