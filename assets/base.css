@@ -2870,6 +2870,13 @@ details-disclosure > details {
   }
 }
 
+@media screen and (max-width: 780px) {
+.blog-articles {
+  display: flex;
+  flex-direction: column;
+}
+}
+
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
