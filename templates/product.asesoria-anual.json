@@ -35,6 +35,13 @@
           "settings": {
           }
         },
+        "text_8RLJYF": {
+          "type": "text",
+          "settings": {
+            "text": "NOTA IMPORTANTE: Es necesario tomar la llamada desde una computadora que te permita entrar al portal del SAT. Para facturar o declarar es muy importante tener tu e.firma actualizada (con la contraseña de acceso) para poder ingresar a tu sesión.",
+            "text_style": "body"
+          }
+        },
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-variant_picker-1": {
           "type": "variant_picker",
           "settings": {
@@ -67,6 +74,7 @@
         "70399914-804f-47d5-b2b4-a7cff41e8fd0",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-text-2",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-price-1",
+        "text_8RLJYF",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-variant_picker-1",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-quantity_selector-1",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-buy_buttons-1",

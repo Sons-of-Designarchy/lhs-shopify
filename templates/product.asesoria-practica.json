@@ -26,7 +26,7 @@
         "99ebb6c9-cc44-4495-a3e2-3a5b97c8538d": {
           "type": "text",
           "settings": {
-            "text": "No te preocupes, aquí te damos apoyo práctico en las funciones más comunes del portal en una asesoría 1-1 en videollamada con uno de nuestros expertos.Agendar asesoria",
+            "text": "No te preocupes, aquí te damos apoyo práctico en las funciones más comunes del portal en una asesoría 1-1 en videollamada con uno de nuestros expertos.Agendar asesoria.",
             "text_style": "body"
           }
         },
@@ -445,6 +445,11 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 20
+      }
+    },
+    "resenas": {
+      "type": "resenas",
+      "settings": {
       }
     },
     "product-recommendations": {
@@ -870,11 +875,6 @@
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "resenas": {
-      "type": "resenas",
-      "settings": {
       }
     }
   },
