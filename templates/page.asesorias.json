@@ -13,7 +13,7 @@
       "settings": {
         "title": "¿Necesitas asesoría personalizada?",
         "heading_size": "h1",
-        "description": "<p>Tenemos dos modelos, si tienes dudas de cuál elegir, <a href=\"https:\/\/wa.me\/525540062850\">mándanos un Whatsapp<\/a><\/p>",
+        "description": "<p>Tenemos dos modelos, si tienes dudas de cuál elegir, <a href=\"https:\/\/wa.me\/525540062850\">mándanos un Whatsapp.<\/a><\/p><p><strong>NOTA IMPORTANTE: <\/strong>Es necesario tomar la llamada desde una computadora que te permita entrar al portal del SAT. <\/p><p>En las <strong>Asesorías como: Práctica y Declaración<\/strong> para facturar o declarar es muy importante tener tu e.firma actualizada (con la contraseña de acceso) para poder ingresar a tu sesión.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "asesorias",
