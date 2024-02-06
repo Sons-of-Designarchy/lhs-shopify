@@ -33,6 +33,13 @@
             "share_label": "Compartir"
           }
         },
+        "text_Phctjc": {
+          "type": "text",
+          "settings": {
+            "text": "Por favor selecciona un horario que mejor se acomode a tus tiempos.",
+            "text_style": "body"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -57,6 +64,7 @@
         "caption",
         "product-rating",
         "share",
+        "text_Phctjc",
         "variant_picker",
         "buy_buttons",
         "description"
