@@ -49,13 +49,6 @@
           "type": "description",
           "settings": {
           }
-        },
-        "popup": {
-          "type": "popup",
-          "settings": {
-            "text": "Size chart",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -66,8 +59,7 @@
         "share",
         "variant_picker",
         "buy_buttons",
-        "description",
-        "popup"
+        "description"
       ],
       "settings": {
         "enable_sticky_info": false,
