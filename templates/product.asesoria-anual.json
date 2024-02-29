@@ -502,28 +502,6 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_78b8Vi": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Kk9D4e": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "NOTA",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Kk9D4e"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "rich_text_hV7Edn": {
       "type": "rich-text",
       "blocks": {
@@ -547,6 +525,34 @@
       ],
       "settings": {
         "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_wDbUjE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rqNRrA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Políticas de cancelación",
+            "heading_size": "h2"
+          }
+        },
+        "text_rwML8H": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En caso de cancelación de la asesoría, se tienen 4hrs previas a la asesoría para acceder al 100% de devolución del costo inicial, de lo contrario, puede estar sujeto a un cargo equivalente al 50% del costo total extra para reagendar un espacio.<\/p><p>Tolerancia de espera de 15min. Después del tiempo estimado se considerará como no presentadx a la sesión.<\/p><p>Si quieres consultar más detalles de los Términos y Condiciones accede a nuestra página web: www.lahorasat.com<\/p><p>Tus datos personales están protegidos conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Podrás consultar el Aviso de Privacidad de La Hora SAT a través del siguiente portal de internet: www.lahorasat.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rqNRrA",
+        "text_rwML8H"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -1065,8 +1071,8 @@
     "a90acf9e-d43b-406b-b2ba-04f1af94d30d",
     "787c0e4d-7cd5-4825-8557-2256927784d2",
     "rich_text_GBpVe7",
-    "rich_text_78b8Vi",
     "rich_text_hV7Edn",
+    "rich_text_wDbUjE",
     "multicolumn-5",
     "product-recommendations",
     "newsletter",
