@@ -3,6 +3,13 @@
     "c745d297-b2eb-4099-a60d-69e922df1aa3": {
       "type": "featured-product",
       "blocks": {
+        "text_VDRBCM": {
+          "type": "text",
+          "settings": {
+            "text": "SESIÓN VÍA GOOGLE MEET DE 60 MIN",
+            "text_style": "uppercase"
+          }
+        },
         "a9dde346-4f18-475a-b1b9-b7daee525151": {
           "type": "custom_liquid",
           "settings": {
@@ -87,6 +94,7 @@
         }
       },
       "block_order": [
+        "text_VDRBCM",
         "a9dde346-4f18-475a-b1b9-b7daee525151",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-text-1",
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-title-1",
@@ -573,7 +581,7 @@
         "f036bb4a-9373-4f27-8e53-08f70bd05972": {
           "type": "text",
           "settings": {
-            "text": "SESIÓN VÍDE GOOGLE MEET DE 1 HORA",
+            "text": "SESIÓN VÍA GOOGLE MEET DE 60 MIN",
             "text_style": "uppercase"
           }
         },
