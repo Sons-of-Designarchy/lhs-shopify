@@ -512,17 +512,10 @@
             "heading": "NOTA",
             "heading_size": "h1"
           }
-        },
-        "text_qap7md": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>Si necesitas apoyo para recabar ciertos requisitos, podemos ayudarte a través de una asesoría adicional debido al tiempo limitado de la sesión.<\/li><li>La presentación de la declaración anual del ejercicio inmediato anterior del ejercicio en curso, solamente se podrá presentar a partir del mes de Abril. NO se puede presentar entre los meses de enero y marzo.<\/li><li>No atendemos a Personas Morales.<\/li><li>En caso de haber generado un saldo a favor y de optar por su devolución, nuestro equipo te apoyará con el trámite en el trámite durante la sesión, más no nos hacemos responsables del seguimiento de dicha devolución. Para ello, se consideraría como una asesoría práctica adicional, el cual está sujeto a un cargo equivalente al 100% del costo de la asesoría.<\/li><li>Toda información utilizada para la presentación de la declaración anual es proporcionada directamente del cliente, de lo que él nos envía y dice. No nos hacemos responsables de información incompleta y malversada.<\/li><\/ul>"
-          }
         }
       },
       "block_order": [
-        "heading_Kk9D4e",
-        "text_qap7md"
+        "heading_Kk9D4e"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -540,10 +533,17 @@
             "heading": "Términos y Condiciones",
             "heading_size": "h1"
           }
+        },
+        "text_7Ua893": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Si necesitas apoyo para recabar ciertos requisitos, podemos ayudarte a través de una asesoría adicional debido al tiempo limitado de la sesión.<\/li><li>La presentación de la declaración anual del ejercicio inmediato anterior del ejercicio en curso, solamente se podrá presentar a partir del mes de Abril. NO se puede presentar entre los meses de enero y marzo.<\/li><li>No atendemos a Personas Morales.<\/li><li>En caso de haber generado un saldo a favor y de optar por su devolución, nuestro equipo te apoyará con el trámite en el trámite durante la sesión, más no nos hacemos responsables del seguimiento de dicha devolución. Para ello, se consideraría como una asesoría práctica adicional, el cual está sujeto a un cargo equivalente al 100% del costo de la asesoría.<\/li><li>Toda información utilizada para la presentación de la declaración anual es proporcionada directamente del cliente, de lo que él nos envía y dice. No nos hacemos responsables de información incompleta y malversada.<\/li><\/ul>"
+          }
         }
       },
       "block_order": [
-        "heading_KjWQbj"
+        "heading_KjWQbj",
+        "text_7Ua893"
       ],
       "settings": {
         "color_scheme": "accent-1",
