@@ -431,6 +431,26 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_U79Uca": {
+      "type": "rich-text",
+      "blocks": {
+        "text_3FAPdj": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Es necesario tomar la llamada desde una computadora que te permita entrar al portal del SAT. <\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_3FAPdj"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 4
+      }
+    },
     "787c0e4d-7cd5-4825-8557-2256927784d2": {
       "type": "multicolumn",
       "blocks": {
@@ -1069,6 +1089,7 @@
     "multicolumn-1",
     "multicolumn-3",
     "a90acf9e-d43b-406b-b2ba-04f1af94d30d",
+    "rich_text_U79Uca",
     "787c0e4d-7cd5-4825-8557-2256927784d2",
     "rich_text_GBpVe7",
     "rich_text_hV7Edn",
