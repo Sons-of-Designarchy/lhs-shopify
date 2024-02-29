@@ -437,7 +437,7 @@
         "text_3FAPdj": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Es necesario tomar la llamada desde una computadora que te permita entrar al portal del SAT. <\/li><\/ul>"
+            "text": "<h4>Es necesario tomar la llamada desde una computadora que te permita entrar al portal del SAT. <\/h4>"
           }
         }
       },
