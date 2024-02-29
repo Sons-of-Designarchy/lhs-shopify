@@ -44,7 +44,7 @@
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-text-1": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
+            "text": "SESIÓN VÍA GOOGLE MEET DE 80 MIN",
             "text_style": "uppercase"
           }
         },
