@@ -536,6 +536,13 @@
             "text_style": "subtitle"
           }
         },
+        "text_DCTmjF": {
+          "type": "text",
+          "settings": {
+            "text": "Para personas físicas",
+            "text_style": "uppercase"
+          }
+        },
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-price-1": {
           "type": "price",
           "settings": {
@@ -571,6 +578,7 @@
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-text-1",
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-title-1",
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-text-2",
+        "text_DCTmjF",
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-price-1",
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-variant_picker-1",
         "template--15693383368874__beeff29b-a2cf-4381-8d89-ccde6df003b5-quantity_selector-1",
