@@ -431,27 +431,6 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_hV7Edn": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_KjWQbj": {
-          "type": "heading",
-          "settings": {
-            "heading": "Términos y Condiciones",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_KjWQbj"
-      ],
-      "settings": {
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "787c0e4d-7cd5-4825-8557-2256927784d2": {
       "type": "multicolumn",
       "blocks": {
@@ -510,23 +489,64 @@
           "settings": {
             "text": "<p>En el caso de querer presentar declaraciones anuales de ejercicios anteriores, será necesario recabar la información antes mencionada del ejercicio correspondiente.<\/p>"
           }
-        },
-        "button_gwrKER": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_Wci6jk",
-        "text_wjkWHE",
-        "button_gwrKER"
+        "text_wjkWHE"
       ],
       "settings": {
         "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_78b8Vi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Kk9D4e": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "NOTA",
+            "heading_size": "h1"
+          }
+        },
+        "text_qap7md": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Si necesitas apoyo para recabar ciertos requisitos, podemos ayudarte a través de una asesoría adicional debido al tiempo limitado de la sesión.<\/li><li>La presentación de la declaración anual del ejercicio inmediato anterior del ejercicio en curso, solamente se podrá presentar a partir del mes de Abril. NO se puede presentar entre los meses de enero y marzo.<\/li><li>No atendemos a Personas Morales.<\/li><li>En caso de haber generado un saldo a favor y de optar por su devolución, nuestro equipo te apoyará con el trámite en el trámite durante la sesión, más no nos hacemos responsables del seguimiento de dicha devolución. Para ello, se consideraría como una asesoría práctica adicional, el cual está sujeto a un cargo equivalente al 100% del costo de la asesoría.<\/li><li>Toda información utilizada para la presentación de la declaración anual es proporcionada directamente del cliente, de lo que él nos envía y dice. No nos hacemos responsables de información incompleta y malversada.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Kk9D4e",
+        "text_qap7md"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_hV7Edn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KjWQbj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Términos y Condiciones",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KjWQbj"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -1043,9 +1063,10 @@
     "multicolumn-1",
     "multicolumn-3",
     "a90acf9e-d43b-406b-b2ba-04f1af94d30d",
-    "rich_text_hV7Edn",
     "787c0e4d-7cd5-4825-8557-2256927784d2",
     "rich_text_GBpVe7",
+    "rich_text_78b8Vi",
+    "rich_text_hV7Edn",
     "multicolumn-5",
     "product-recommendations",
     "newsletter",
