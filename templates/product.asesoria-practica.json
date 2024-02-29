@@ -482,21 +482,68 @@
         "text_hJY9je": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Conocimientos básicos previos sobre temas del SAT.<\/li><li>RFC y contraseña para acceder al portal, o en su caso, e.firma y su clave vigente.<\/li><\/ul><p><\/p><p><em>Estos puntos se tratan conforme a tus necesidades, si ya tienes cubiertos algunos, nos enfocamos en los temas de tu interés como la regulación de las declaraciones y qué hacer.<\/em><\/p>"
-          }
-        },
-        "button_EDhCH8": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
+            "text": "<ul><li>Conocimientos básicos previos sobre temas del SAT.<\/li><li>RFC y contraseña para acceder al portal, o en su caso, e.firma y su clave vigente.<\/li><\/ul><p><\/p><h5><em>Estos puntos se tratan conforme a tus necesidades, si ya tienes cubiertos algunos, nos enfocamos en los temas de tu interés como la regulación de las declaraciones y qué hacer.<\/em><\/h5><p><\/p><p>Toda información utilizada para el apoyo al Contribuyente en la realización de trámites ante las Autoridades Fiscales es proporcionada directamente del cliente, de lo que él nos envía y dice. No nos hacemos responsables de información incompleta y malversada.<\/p>"
           }
         }
       },
       "block_order": [
-        "text_hJY9je",
-        "button_EDhCH8"
+        "text_hJY9je"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_9fEJpr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MVVWam": {
+          "type": "heading",
+          "settings": {
+            "heading": "Términos y condiciones:",
+            "heading_size": "h1"
+          }
+        },
+        "text_hyNREp": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>En el caso de la presentación de declaraciones mensuales y bimestrales, se deberá esperar al término del periodo (según el mes a tratar) para poder proceder a la presentación de la declaración.<\/li><li>No registramos citas del SAT.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MVVWam",
+        "text_hyNREp"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_peWXEx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TPMhpi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Políticas de cancelación",
+            "heading_size": "h2"
+          }
+        },
+        "text_mPttt3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En caso de cancelación de la asesoría, se tienen 4hrs previas a la asesoría para acceder al 100% de devolución del costo inicial, de lo contrario, puede estar sujeto a un cargo equivalente al 50% del costo total extra para reagendar un espacio.<\/p><p>Tolerancia de espera de 15min. Después del tiempo estimado se considerará como no presentadx a la sesión.<\/p><p>Si quieres consultar más detalles de los <a href=\"https:\/\/lahorasat.com\/pages\/terminos-y-condiciones\" title=\"https:\/\/lahorasat.com\/pages\/terminos-y-condiciones\">Términos y Condiciones<\/a> accede a nuestra página web: <a href=\"https:\/\/lahorasat.com\/\" title=\"https:\/\/lahorasat.com\/\">www.lahorasat.com<\/a><\/p><p>Tus datos personales están protegidos conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Podrás consultar el <a href=\"https:\/\/lahorasat.com\/pages\/aviso-de-privacidad\" title=\"https:\/\/lahorasat.com\/pages\/aviso-de-privacidad\">Aviso de Privacidad<\/a> de La Hora SAT a través del siguiente portal de internet: <a href=\"https:\/\/lahorasat.com\/\" title=\"https:\/\/lahorasat.com\/\">www.lahorasat.com<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TPMhpi",
+        "text_mPttt3"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -955,6 +1002,8 @@
     "rich_text_zmDxe9",
     "multicolumn-5",
     "rich_text_gkkNxP",
+    "rich_text_9fEJpr",
+    "rich_text_peWXEx",
     "resenas",
     "product-recommendations",
     "newsletter",
