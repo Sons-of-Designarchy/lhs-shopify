@@ -55,7 +55,6 @@
         },
         "template--16181233778858__c745d297-b2eb-4099-a60d-69e922df1aa3-price-1": {
           "type": "price",
-          "disabled": true,
           "settings": {
           }
         },
