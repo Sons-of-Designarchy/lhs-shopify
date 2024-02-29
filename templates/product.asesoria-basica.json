@@ -395,13 +395,90 @@
         "padding_bottom": 0
       }
     },
+    "rich_text_hGw6Jr": {
+      "type": "rich-text",
+      "blocks": {
+        "text_iDqyxM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Toda información utilizada para el apoyo al Contribuyente en la realización de trámites ante las Autoridades Fiscales es proporcionada directamente del cliente, de lo que él nos envía y dice. No nos hacemos responsables de información incompleta y malversada.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_iDqyxM"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_ReDRYi": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LewfAV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Toda información utilizada para el apoyo al Contribuyente en la realización de trámites ante las Autoridades Fiscales es proporcionada directamente del cliente, de lo que él nos envía y dice. No nos hacemos responsables de información incompleta y malversada.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LewfAV"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_DEFjEz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_C7wdFg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Políticas de cancelación",
+            "heading_size": "h1"
+          }
+        },
+        "text_iEhGTT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En caso de cancelación de la asesoría, se tienen 4hrs previas a la asesoría para acceder al 100% de devolución del costo inicial, de lo contrario, puede estar sujeto a un cargo equivalente al 50% del costo total extra para reagendar un espacio.<\/p><p>Tolerancia de espera de 15min. Después del tiempo estimado se considerará como no presentadx a la sesión.<\/p><p>Si quieres consultar más detalles de los Términos y Condiciones accede a nuestra página web: <a href=\"https:\/\/lahorasat.com\" title=\"https:\/\/lahorasat.com\">www.lahorasat.com<\/a><\/p><p>Tus datos personales están protegidos conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Podrás consultar el Aviso de Privacidad de La Hora SAT a través del siguiente portal de internet: <a href=\"\/pages\/aviso-de-privacidad\" title=\"Aviso de Privacidad\">www.lahorasat.com<\/a><\/p>"
+          }
+        },
+        "button_6CbJET": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_C7wdFg",
+        "text_iEhGTT",
+        "button_6CbJET"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "a90acf9e-d43b-406b-b2ba-04f1af94d30d": {
       "type": "rich-text",
       "blocks": {
         "template--15693383368874__a90acf9e-d43b-406b-b2ba-04f1af94d30d-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "¿Qué aprenderé aquí?",
+            "heading": "Te asesoramos en:",
             "heading_size": "h1"
           }
         }
@@ -423,7 +500,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Conocer tu situación fiscal<\/li><li>Elegir el mejor régimen para ti<\/li><li>Entender lo básico para estar al día con el SAT<\/li><\/ul>",
+            "text": "<ul><li>Resolvemos dudas particulares sobre temas fiscales<\/li><li>Ayudarte a conocer tu situación fiscal actual.<\/li><li>Guía para empezar tu negocio de la mejor manera.<\/li><li>Te explicamos todo lo que necesitas para estar al día con el SAT (tipos de ingresos, deducciones).<\/li><li>Te asesoramos con estrategias ideales para tu situación fiscal.<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -432,7 +509,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Emprender y sobrevivir al SAT de la mejor manera<\/li><li>Consultar documentos en el portal<\/li><li>Guiarte para tener una buena relación con el SAT<\/li><\/ul>",
+            "text": "<p><\/p><ul><li>Te ayudamos a escoger tu Régimen Fiscal correcto.<\/li><li>Consultar tus documentos más importantes en el portal. <\/li><li>Te ayudamos a consultar algunas cuestiones básicas ante el portal del SAT, por ejemplo, descargar tu Constancia de Situación Fiscal, consultar tu Opinión de cumplimiento, etc.<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -977,6 +1054,9 @@
     "multicolumn",
     "multicolumn-1",
     "multicolumn-3",
+    "rich_text_hGw6Jr",
+    "rich_text_ReDRYi",
+    "rich_text_DEFjEz",
     "a90acf9e-d43b-406b-b2ba-04f1af94d30d",
     "787c0e4d-7cd5-4825-8557-2256927784d2",
     "multicolumn-5",
