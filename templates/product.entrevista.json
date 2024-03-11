@@ -80,6 +80,34 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_KGTkrE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MXTyD9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Freelance: Asesor\/a Fiscal Online (Contador\/a)",
+            "heading_size": "h1"
+          }
+        },
+        "text_jh4wQ7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Estamos buscando un\/a profesional experimentadx en contabilidad e impuestos para unirse a nuestro equipo como colaborador\/a freelance del área de impartición de asesorías de nuestro proyecto. Este rol jugará un papel crítico para seguir creciendo La Hora SAT. <\/p><h2>Responsabilidades<\/h2><ul><li>Impartir asesorías fiscales 1 a 1 vía online a personas físicas y morales sobre temas fiscales y contables.<\/li><li>Impartir cursos sobre temas fiscales a grupos online y presencial (opcional).<\/li><li>Resolver dudas fiscales en el chat de soporte.<\/li><\/ul><p><\/p><p><\/p><h2>Requisitos<\/h2><ul><li>Licenciatura en contabilidad.<\/li><li>Al menos 4 años de experiencia en el área de contabilidad y fiscal avanzada.<\/li><li>Fuertes habilidades analíticas, de resolución de problemas, de puntualidad y de comunicación.<\/li><li>Experiencia en puestos de liderazgo.<\/li><li>Experiencia comprobada para administrar proyectos complejos y obtener resultados.<\/li><li>Indispensable saber trabajar en tiempo y en forma en esquema Home Office.<\/li><li>Posibilidad de generar CFDI por el pago de honorarios.<\/li><\/ul><h2>Nice-to-haves<\/h2><ul><li>Experiencia en atención al cliente.<\/li><li>Experiencia de redacción y\/o pedagogía.<\/li><\/ul><h2>¿Qué te ofrecemos?<\/h2><p>Elección libre de tu horario de trabajo.<\/p><p>Comisiones por asesoría impartida (10k - 15k mensuales aprox con posibilidades de aumento). <\/p><h2>¿Por qué trabajar con nosotros?<\/h2><p>Somos la comunidad de educación fiscal más grande. Tenemos más de tres años en el mercado y en ese tiempo hemos logrado ayudar a más de 60 mil personas a aprender de forma sencilla cómo funciona el SAT, nuestra misión es ayudar a las nuevas generaciones con educación fiscal divertida y fácil de entender con un enfoque de trabajo ágil, creativo y socialmente responsable.<\/p><p>La Hora SAT es parte de Soda, un estudio donde desarrollamos y colaboramos con proyectos creativos que buscan generar un impacto social. Soda está formado por un equipo multidisciplinario y modular de creativos, diseñadores y programadores que colaboran para brindar soluciones integrales que van desde el diseño de marca, manejo de redes sociales, producción de eventos y desarrollo web.<\/p><p><\/p><h2>¿Cómo aplicar?<\/h2><p>Envía un correo a hola@lahorasat.com con el asunto \"Freelance: Asesor\/a Fiscal Online (Contador\/a)\" donde incluyas tu CV actualizado y un vídeo de 1min donde nos cuentes por qué quieres ser parte del equipo.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MXTyD9",
+        "text_jh4wQ7"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn-5": {
       "type": "multicolumn",
       "blocks": {
@@ -199,6 +227,7 @@
   },
   "order": [
     "main",
+    "rich_text_KGTkrE",
     "multicolumn-5",
     "product-recommendations",
     "newsletter"
