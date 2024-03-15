@@ -1,5 +1,42 @@
 {
   "sections": {
+    "rich_text_PNAhWh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NzhQUJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "¡IMPORTANTE!",
+            "heading_size": "h1"
+          }
+        },
+        "text_U9CYtX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En esta asesoría <strong>no<\/strong> se presenta la declaración anual.<\/p><p>Agenda una asesoría especial para declaración aquí:<\/p>"
+          }
+        },
+        "button_J8gmHr": {
+          "type": "button",
+          "settings": {
+            "button_label": "Declaración Anual",
+            "button_link": "https:\/\/lahorasat.com\/products\/asesoria-para-declaracion-anual",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_NzhQUJ",
+        "text_U9CYtX",
+        "button_J8gmHr"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "2c81a553-f719-4324-9062-a500f8a8bade": {
       "type": "featured-product",
       "blocks": {
@@ -1004,6 +1041,7 @@
     }
   },
   "order": [
+    "rich_text_PNAhWh",
     "2c81a553-f719-4324-9062-a500f8a8bade",
     "main",
     "rich-text",
