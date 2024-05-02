@@ -5,6 +5,7 @@
       "blocks": {
         "heading_qbQAnr": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "¡IMPORTANTE!",
             "heading_size": "h1"
