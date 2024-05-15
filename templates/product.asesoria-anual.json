@@ -5,10 +5,9 @@
       "blocks": {
         "heading_qbQAnr": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "¡IMPORTANTE!",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "text_NCN63W": {
