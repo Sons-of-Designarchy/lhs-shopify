@@ -451,7 +451,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Acceso a tu portal del SAT: Contar con RFC y contraseña para acceder al portal, o en su caso, e.firma y su clave vigente.</li></ul><p></p><ul><li>Tener activado tu buzón tributario.</li></ul><p></p><ul><li>Relación en Excel del total de ingresos del 01 de enero al 31 de diciembre del 2024, con las debidas facturas y/o recibos de nómina.</li></ul><p></p><ul><li>Relación en Excel del acumulado de tus deducciones personales y/o autorizadas, con sus debidas facturas.</li></ul><p></p><ul><li>Estados de cuenta bancarios de diciembre 2024 donde hayas recibido durante el año todos tus ingresos.</li></ul>",
+            "text": "<ul><li>Acceso a tu portal del SAT: Contar con RFC y contraseña para acceder al portal, o en su caso, e.firma y su clave vigente.</li></ul><p></p><ul><li>Tener activado tu buzón tributario.</li></ul><p></p><ul><li>Relación en Excel del total de ingresos del 01 de enero al 31 de diciembre del 2024, con las debidas facturas y/o recibos de nómina.</li></ul><p></p><ul><li>Relación en Excel del acumulado de tus deducciones personales y/o autorizadas, con sus debidas facturas.</li></ul><p></p><ul><li>Estado de cuenta bancario con fecha no mayor 3 meses donde hayas recibido tus ingresos durante todo el año.</li></ul>",
             "link_label": "",
             "link": ""
           }
