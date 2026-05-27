@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#603dbd",
@@ -83,30 +92,30 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "background-1",
     "accent_icons": "text",
-    "social_twitter_link": "https:\/\/twitter.com\/lahorasat",
-    "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=100063771390136",
+    "social_twitter_link": "https://twitter.com/lahorasat",
+    "social_facebook_link": "https://www.facebook.com/profile.php?id=100063771390136",
     "social_pinterest_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/lahorasat\/",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@lahorasat",
+    "social_instagram_link": "https://www.instagram.com/lahorasat/",
+    "social_tiktok_link": "https://www.tiktok.com/@lahorasat",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UC4oXv1xgGoPSxiFni7xVUWQ",
+    "social_youtube_link": "https://www.youtube.com/channel/UC4oXv1xgGoPSxiFni7xVUWQ",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
+    "favicon": "shopify://shop_images/128px_V7_Favicon___La_Hora_SAT.png",
     "currency_code_enabled": true,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/logo.svg",
+          "logo": "shopify://shop_images/logo.svg",
           "logo_width": 50,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -144,7 +153,7 @@
           "57404e56-28b5-4cad-b1ad-ba5fdc8c1952": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-footer.svg",
+              "image": "shopify://shop_images/logo-footer.svg",
               "image_width": 135,
               "alignment": "right"
             }
@@ -183,30 +192,25 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "21474836472147483647": {
-        "type": "shopify:\/\/apps\/fontify-use-any-font\/blocks\/app-embed\/334490e2-2153-4a2e-a452-e90bdeffa3cc",
+        "type": "shopify://apps/fontify-use-any-font/blocks/app-embed/334490e2-2153-4a2e-a452-e90bdeffa3cc",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "appointment-booking-cowlendar-6d8b8f6a-9b3c-42b8-b2e6-a758c38d45bf": {
-        "type": "shopify:\/\/apps\/appointment-booking-cowlendar\/blocks\/app-embed\/6d8b8f6a-9b3c-42b8-b2e6-a758c38d45bf",
+        "type": "shopify://apps/appointment-booking-cowlendar/blocks/app-embed/6d8b8f6a-9b3c-42b8-b2e6-a758c38d45bf",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "7231527610335159538": {
-        "type": "shopify:\/\/apps\/courses-plus\/blocks\/subscription-embed-block\/ce230994-1eaa-437b-a472-ab50f3058a28",
+        "type": "shopify://apps/courses-plus/blocks/subscription-embed-block/ce230994-1eaa-437b-a472-ab50f3058a28",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": true,
         "settings": {
           "button_color": "#6a57d1",
@@ -218,10 +222,9 @@
         }
       },
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
@@ -337,8 +340,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -398,7 +400,7 @@
       ".blog-articles {grid-template-columns: 1fr 1fr 1fr;}",
       ".rte {padding: 1rem;}",
       ".product {margin: auto;}",
-      ".section-purple {background: var(--purple) url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0625\/4700\/1514\/files\/textura-purple_e90ba6fd-ac8f-4400-9b29-3d6bac22b9fd.png\"); color: #fff;}",
+      ".section-purple {background: var(--purple) url(\"https://cdn.shopify.com/s/files/1/0625/4700/1514/files/textura-purple_e90ba6fd-ac8f-4400-9b29-3d6bac22b9fd.png\"); color: #fff;}",
       ".section-purple h1,.section-purple p {color: #fff;}",
       ".testing-this {color: red;}",
       ".article-template {max-width: 1200px; margin: 0 auto;}",
